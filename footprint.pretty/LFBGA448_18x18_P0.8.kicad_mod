@@ -1,5 +1,5 @@
 (footprint "LFBGA448_18x18_P0.8" (version 20210424) (generator pcbnew) (layer "F.Cu")
-  (tedit 609BFB1F)
+  (tedit 60C14F1F)
   (descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
   (tags "capacitor")
   (attr smd)
@@ -919,7 +919,7 @@
     (solder_mask_margin 0.0762) (tstamp 806912cb-d296-4528-93e8-dffb2a42bc5e))
   (pad "Y22" smd circle locked (at 8.4 6.8) (size 0.33 0.33) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.0762) (tstamp 11b5c00e-3db6-459a-9516-d6471f154972))
-  (model "${DIR_3DMODEL}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl"
+  (model "${DIR_3DMODEL}/Package_BGA.3dshapes/LFBGA448_18x18_P0.8.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

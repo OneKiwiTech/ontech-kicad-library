@@ -1,5 +1,5 @@
 (footprint "WFBGA153_13x11P5_P0.5S" (version 20210424) (generator pcbnew) (layer "F.Cu")
-  (tedit 60AC79A7)
+  (tedit 60C151E3)
   (descr "Capacitor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
   (tags "capacitor")
   (attr smd)
@@ -291,7 +291,7 @@
     (solder_mask_margin 0.0762) (tstamp ff69bf3e-ff0d-4718-845f-7300e13a3cba))
   (pad "P14" smd circle locked (at 3.25 -3.25) (size 0.23 0.23) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.0762) (tstamp 7cb45811-da2f-4df0-a321-e2a777e6810c))
-  (model "${DIR_3DMODEL}/Capacitor_SMD.3dshapes/C_1210_3225Metric.wrl"
+  (model "${DIR_3DMODEL}/Package_BGA.3dshapes/WFBGA153_13x11P5_P0.5S.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

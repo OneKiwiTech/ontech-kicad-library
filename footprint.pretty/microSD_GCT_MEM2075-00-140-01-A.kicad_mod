@@ -1,5 +1,5 @@
 (footprint "microSD_GCT_MEM2075-00-140-01-A" (version 20210424) (generator pcbnew) (layer "F.Cu")
-  (tedit 6090FD78)
+  (tedit 60C1596A)
   (descr "Capacitor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
   (tags "capacitor")
   (attr smd)
@@ -65,9 +65,9 @@
     (solder_mask_margin 0.0762) (tstamp a86c113f-9e7f-410c-92cd-fdc733302c4f))
   (pad "SH" smd rect locked (at 16 0) (size 1.016 2.286) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.0762) (tstamp d4f5fbf2-d2b3-460d-b627-f29cf4d1a96c))
-  (model "${DIR_3DMODEL}/Capacitor_SMD.3dshapes/C_1210_3225Metric.wrl"
-    (offset (xyz 0 0 0))
+  (model "${DIR_3DMODEL}/Connector_Card.3dshapes/MEM2075-00-140-01-A.stp"
+    (offset (xyz 8.001 -13.208 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz -90 0 0))
   )
 )
