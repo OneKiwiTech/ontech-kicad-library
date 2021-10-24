@@ -1,5 +1,5 @@
 (footprint "Jack_3.5mm_PJ-342S" (version 20210722) (generator pcbnew) (layer "F.Cu")
-  (tedit 613225E5)
+  (tedit 61755EA2)
   (descr "PJ311 6pin SMD 3.5mm stereo headphones jack.")
   (tags "headphones jack plug stereo 3.5mm PJ311")
   (attr smd)

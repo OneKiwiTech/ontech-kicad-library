@@ -1,5 +1,5 @@
 (footprint "LBEE5KL1DX-883" (version 20210722) (generator pcbnew) (layer "F.Cu")
-  (tedit 61480C11)
+  (tedit 61755F3F)
   (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp da97e6ab-8940-4ef0-b778-6dfd6908b150)

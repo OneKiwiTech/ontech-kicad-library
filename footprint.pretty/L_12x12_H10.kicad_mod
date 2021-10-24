@@ -1,4 +1,4 @@
-(footprint "L_12x12_H10" (version 20210228) (generator pcbnew) (layer "F.Cu")
+(footprint "L_12x12_H10" (version 20210722) (generator pcbnew) (layer "F.Cu")
   (tedit 60671D53)
   (descr "Choke, SMD, 12x12mm 8mm height")
   (tags "Choke SMD")
@@ -81,9 +81,9 @@
   (fp_line (start -6.2 3.3) (end -6.2 6.2) (layer "F.Fab") (width 0.1) (tstamp ef50d481-5949-4120-8357-23356e8c0bdc))
   (fp_line (start 5.1 -4) (end 5 -4.3) (layer "F.Fab") (width 0.1) (tstamp efa567fa-c8a4-4a7e-92e5-42ffdf912dcc))
   (fp_circle (center -2.1 3) (end -1.8 3.25) (layer "F.Fab") (width 0.1) (fill none) (tstamp e3668ab9-ad21-46ef-adf7-b5a76d6cd809))
-  (pad "1" smd rect (at -5.08 0) (locked) (size 3.048 5.588) (layers "F.Cu" "F.Paste" "F.Mask")
+  (pad "1" smd rect locked (at -5.08 0) (size 3.048 5.588) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.0762) (tstamp 1b94ec8f-7099-4ae3-b51b-5cf8ead793fe))
-  (pad "2" smd rect (at 5.08 0) (locked) (size 3.048 5.588) (layers "F.Cu" "F.Paste" "F.Mask")
+  (pad "2" smd rect locked (at 5.08 0) (size 3.048 5.588) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.0762) (tstamp 9e1d02cf-4e52-45c2-ae59-e9f95e921384))
   (model "${DIR_3DMODEL}/Inductor_SMD.3dshapes/L_12x12mm_H10mm.stp"
     (offset (xyz 0 0 0))

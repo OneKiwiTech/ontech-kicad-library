@@ -1,5 +1,5 @@
-(footprint "HDR_P2.54_1x1" (version 20210228) (generator pcbnew) (layer "F.Cu")
-  (tedit 604B3DF2)
+(footprint "HDR_P2.54_1x1" (version 20210722) (generator pcbnew) (layer "F.Cu")
+  (tedit 61755B75)
   (descr "Through hole straight pin header, 1x20, 2.54mm pitch, single row")
   (tags "Through hole pin header THT 1x20 2.54mm single row")
   (attr through_hole)
@@ -26,8 +26,8 @@
   (fp_line (start -0.762 -1.27) (end 1.27 -1.27) (layer "F.Fab") (width 0.1) (tstamp 64df23a2-d009-49c6-ba36-7df17b046293))
   (fp_line (start -1.27 1.27) (end -1.27 -0.762) (layer "F.Fab") (width 0.1) (tstamp 87194a53-ed1f-4f62-9519-07700cddb52e))
   (fp_line (start 1.27 1.27) (end -1.27 1.27) (layer "F.Fab") (width 0.1) (tstamp cb0b3887-c897-4574-917d-b7a3f0842cdd))
-  (pad "1" thru_hole roundrect (at 0 0) (locked) (size 2.032 1.778) (drill 1.016) (layers *.Cu *.Mask) (roundrect_rratio 0.1) (tstamp 08bbc29d-80d3-45c4-af65-ad5dcb0aea83))
-  (model "${DIR_3DMODEL}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x01_P2.54mm_Vertical.wrl"
+  (pad "1" thru_hole roundrect locked (at 0 0) (size 2.032 1.778) (drill 1.016) (layers *.Cu *.Mask) (roundrect_rratio 0.1) (tstamp 08bbc29d-80d3-45c4-af65-ad5dcb0aea83))
+  (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x01_P2.54mm_Vertical.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -1,5 +1,5 @@
 (footprint "Jack_3.5mm_PJ-342" (version 20210722) (generator pcbnew) (layer "F.Cu")
-  (tedit 61489A87)
+  (tedit 61755E9D)
   (fp_text reference "REF**" (at 0 5.842 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp ab0ff9dd-569d-4c30-9b75-acaab9adc242)

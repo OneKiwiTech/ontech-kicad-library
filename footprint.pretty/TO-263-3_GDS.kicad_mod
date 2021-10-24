@@ -1,5 +1,5 @@
 (footprint "TO-263-3_GDS" (version 20210722) (generator pcbnew) (layer "F.Cu")
-  (tedit 6127438B)
+  (tedit 6175667A)
   (descr "TO-263 / D2PAK / DDPAK SMD package, http://www.infineon.com/cms/en/product/packages/PG-TO263/PG-TO263-3-1/")
   (tags "D2PAK DDPAK TO-263 D2PAK-3 TO-263-3 SOT-404")
   (attr smd)
@@ -27,6 +27,6 @@
   (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/TO-263-2.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz 0 0 -90))
   )
 )

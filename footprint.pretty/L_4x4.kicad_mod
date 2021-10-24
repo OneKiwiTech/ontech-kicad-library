@@ -1,5 +1,5 @@
 (footprint "L_4x4" (version 20210722) (generator pcbnew) (layer "F.Cu")
-  (tedit 612722AB)
+  (tedit 617560B6)
   (descr "Low Profile, High Current Inductors (https://www.vishay.com/docs/34295/sc15ah01.pdf)")
   (tags "SMD Vishay Inductor Low Profile")
   (attr smd)

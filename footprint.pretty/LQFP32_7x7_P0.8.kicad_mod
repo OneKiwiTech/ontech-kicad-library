@@ -1,5 +1,5 @@
 (footprint "LQFP32_7x7_P0.8" (version 20210722) (generator pcbnew) (layer "F.Cu")
-  (tedit 61270020)
+  (tedit 6175604B)
   (descr "LQFP, 32 Pin (https://www.nxp.com/docs/en/package-information/SOT358-1.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "LQFP QFP")
   (attr smd)

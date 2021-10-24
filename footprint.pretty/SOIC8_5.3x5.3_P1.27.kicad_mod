@@ -1,5 +1,5 @@
 (footprint "SOIC8_5.3x5.3_P1.27" (version 20210722) (generator pcbnew) (layer "F.Cu")
-  (tedit 614757FA)
+  (tedit 6175655E)
   (descr "SOIC, 8 Pin (JEDEC MS-012AA, https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/soic_narrow-r/r_8.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "SOIC SO")
   (attr smd)
@@ -45,7 +45,7 @@
     (solder_mask_margin 0.0762) (tstamp 6458d666-9044-4434-a1fa-060cdf0edc2b))
   (pad "8" smd roundrect locked (at 3.95 -1.905) (size 1.524 0.635) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.2)
     (solder_mask_margin 0.0762) (tstamp 3c359586-0f02-4172-a5d7-3993eec9ab4c))
-  (model "${DIR_3DMODEL}/Package_SO.3dshapes/SOIC-8_3.9x4.9mm_P1.27mm.step"
+  (model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_5.275x5.275mm_P1.27mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

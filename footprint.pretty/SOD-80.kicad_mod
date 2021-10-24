@@ -1,5 +1,5 @@
-(footprint "SOD-80" (version 20210228) (generator pcbnew) (layer "F.Cu")
-  (tedit 6067E306)
+(footprint "SOD-80" (version 20210722) (generator pcbnew) (layer "F.Cu")
+  (tedit 617564AA)
   (attr smd)
   (fp_text reference "REF**" (at 0 -1.9) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -22,11 +22,11 @@
   (fp_line (start 1.73 -0.65) (end 1.73 0.65) (layer "F.Fab") (width 0.1) (tstamp 7fd7e49e-dfe7-42c0-b225-d90e5aa9d16d))
   (fp_line (start -1.73 -0.65) (end -1.73 0.65) (layer "F.Fab") (width 0.1) (tstamp cbf7e52d-eb29-4969-a8db-751f567ddd45))
   (fp_line (start -1.725 0.65) (end 1.725 0.65) (layer "F.Fab") (width 0.1) (tstamp d0724bee-ef11-45c8-92bb-3f7ac8a5fee0))
-  (pad "A" smd rect (at 1.778 0) (locked) (size 1.016 1.524) (layers "F.Cu" "F.Paste" "F.Mask")
+  (pad "A" smd rect locked (at 1.778 0) (size 1.016 1.524) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.0762) (tstamp 1bd125f0-67b7-4628-8353-42abe59330bc))
-  (pad "K" smd rect (at -1.778 0) (locked) (size 1.016 1.524) (layers "F.Cu" "F.Paste" "F.Mask")
+  (pad "K" smd rect locked (at -1.778 0) (size 1.016 1.524) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.0762) (tstamp 128da68a-469e-49ac-880b-3e2701fe4b76))
-  (model "${DIR_3DMODEL}/Diode_SMD.3dshapes/D_MiniMELF.step"
+  (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_MiniMELF.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

@@ -1,5 +1,5 @@
 (footprint "HVQFN40_6x6_P0.5_EP4x4" (version 20210722) (generator pcbnew) (layer "F.Cu")
-  (tedit 61473FF2)
+  (tedit 61755DF5)
   (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp d43ad518-6e20-4d3a-ae9b-5d56c7eea466)

@@ -1,5 +1,5 @@
 (footprint "LFBGA289_14x14_P0.8" (version 20210722) (generator pcbnew) (layer "F.Cu")
-  (tedit 614B6256)
+  (tedit 61755F5E)
   (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 8f6d5a29-b19b-4cf7-9085-6442f40031ba)

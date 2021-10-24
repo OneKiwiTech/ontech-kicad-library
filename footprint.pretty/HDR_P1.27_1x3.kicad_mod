@@ -1,5 +1,5 @@
-(footprint "HDR_P1.27_1x3" (version 20210228) (generator pcbnew) (layer "F.Cu")
-  (tedit 606288C0)
+(footprint "HDR_P1.27_1x3" (version 20210722) (generator pcbnew) (layer "F.Cu")
+  (tedit 61755AE1)
   (descr "Through hole straight pin header, 1x05, 1.27mm pitch, single row")
   (tags "Through hole pin header THT 1x05 1.27mm single row")
   (attr through_hole)
@@ -23,10 +23,10 @@
   (fp_line (start 1.27 2.032) (end 1.27 -2.032) (layer "F.Fab") (width 0.1) (tstamp 9a8f46b7-e872-4091-8394-b8a0ccda098f))
   (fp_line (start -0.762 -2.032) (end -1.27 -1.524) (layer "F.Fab") (width 0.1) (tstamp baf9c83f-d6ec-49ac-bb32-8892b18fbf76))
   (fp_line (start -1.27 -1.524) (end -1.27 2.032) (layer "F.Fab") (width 0.1) (tstamp eebdfe51-9999-43a5-8e74-730eae958c0d))
-  (pad "1" thru_hole rect (at 0 -1.27) (locked) (size 1 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 3620f522-f328-4ff8-89f3-1c690af41d4d))
-  (pad "2" thru_hole oval (at 0 0) (locked) (size 1 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 1c8366d7-c7b9-47a5-af3f-6455c8ff1f8f))
-  (pad "3" thru_hole oval (at 0 1.27) (locked) (size 1 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp b38b19ee-b892-4765-b169-5d36679f144b))
-  (model "${DIR_3DMODEL}/Connector_PinHeader_1.27mm.3dshapes/PinHeader_1x03_P1.27mm_Vertical.step"
+  (pad "1" thru_hole rect locked (at 0 -1.27) (size 1 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 3620f522-f328-4ff8-89f3-1c690af41d4d))
+  (pad "2" thru_hole oval locked (at 0 0) (size 1 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp 1c8366d7-c7b9-47a5-af3f-6455c8ff1f8f))
+  (pad "3" thru_hole oval locked (at 0 1.27) (size 1 1) (drill 0.65) (layers *.Cu *.Mask) (tstamp b38b19ee-b892-4765-b169-5d36679f144b))
+  (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_1.27mm.3dshapes/PinHeader_1x03_P1.27mm_Vertical.wrl"
     (offset (xyz 0 1.27 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

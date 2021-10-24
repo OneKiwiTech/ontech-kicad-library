@@ -1,5 +1,5 @@
 (footprint "B0603S" (version 20210722) (generator pcbnew) (layer "F.Cu")
-  (tedit 615142A5)
+  (tedit 61755050)
   (descr "Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
   (tags "capacitor")
   (attr smd)
@@ -34,7 +34,7 @@
     (solder_mask_margin 0.0762) (tstamp 7a463dda-dc5f-40c6-a6d1-3d0473aef109))
   (pad "2" smd rect locked (at 0.7112 0) (size 0.635 0.889) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.0762) (tstamp 8c62935b-bbfa-4adc-89fc-af925cdffa00))
-  (model "${DIR_3DMODEL}/Capacitor_SMD.3dshapes/C_0603_1608Metric.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_0603_1608Metric.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

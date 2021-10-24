@@ -1,5 +1,5 @@
-(footprint "USB_C_Plug_UTC009-C12" (version 20210424) (generator pcbnew) (layer "F.Cu")
-  (tedit 5D8A942A)
+(footprint "USB_C_Plug_UTC009-C12" (version 20210722) (generator pcbnew) (layer "F.Cu")
+  (tedit 617568AD)
   (attr smd)
   (fp_text reference "REF**" (at 6.325 3 90) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -58,8 +58,8 @@
   (pad "S1" smd rect locked (at -4.55 1.9) (size 1.5 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4aed3c2d-311b-4735-ac33-fc7251c678af))
   (pad "S1" smd rect locked (at -1.25 2.75) (size 1.2 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 7bcd7836-fffe-4463-ada4-9dbf7afbc6f3))
   (pad "S1" smd rect locked (at 1.25 2.75) (size 1.2 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c3868fb9-8108-4855-8b3e-4b85bd632854))
-  (model "${KIPRJMOD}/modules/packages3D/Connector_USB.3dshapes/C-UTC009.step"
-    (offset (xyz 0 -0.15 0))
+  (model "${DIR_3DMODEL}/Connector_USB.3dshapes/C-UTC009.step"
+    (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
   )

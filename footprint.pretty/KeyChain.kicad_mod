@@ -1,5 +1,5 @@
-(footprint "KeyChain" (version 20210424) (generator pcbnew) (layer "F.Cu")
-  (tedit 60D149AD)
+(footprint "KeyChain" (version 20210722) (generator pcbnew) (layer "F.Cu")
+  (tedit 61755EAA)
   (descr "Circular Fiducial, 1mm bare copper, 2mm soldermask opening (Level A)")
   (tags "fiducial")
   (attr smd)

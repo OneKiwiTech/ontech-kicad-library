@@ -1,5 +1,5 @@
 (footprint "VSSOP10_3.0x3.0_P0.5" (version 20210722) (generator pcbnew) (layer "F.Cu")
-  (tedit 6127369F)
+  (tedit 6175690C)
   (descr "VSSOP, 10 Pin (http://www.ti.com/lit/ds/symlink/ads1115.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "VSSOP SO")
   (attr smd)

@@ -1,5 +1,5 @@
-(footprint "FBGA96_8X14_P0.8" (version 20210424) (generator pcbnew) (layer "F.Cu")
-  (tedit 60C153FE)
+(footprint "FBGA96_8X14_P0.8" (version 20210722) (generator pcbnew) (layer "F.Cu")
+  (tedit 61755A1A)
   (descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
   (tags "capacitor")
   (attr smd)

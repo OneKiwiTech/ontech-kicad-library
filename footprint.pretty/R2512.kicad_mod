@@ -1,5 +1,5 @@
 (footprint "R2512" (version 20210722) (generator pcbnew) (layer "F.Cu")
-  (tedit 61273917)
+  (tedit 617563C2)
   (descr "Resistor SMD 2512 (6332 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
   (tags "resistor")
   (attr smd)

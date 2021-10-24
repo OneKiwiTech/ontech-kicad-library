@@ -1,5 +1,5 @@
 (footprint "TSOP54_10.16x22.22_P0.8" (version 20210722) (generator pcbnew) (layer "F.Cu")
-  (tedit 6147440E)
+  (tedit 617566CF)
   (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp dafbea2a-8242-4587-8324-7cff60f55122)

@@ -1,5 +1,5 @@
 (footprint "DO-214AC" (version 20210722) (generator pcbnew) (layer "F.Cu")
-  (tedit 612739FC)
+  (tedit 6175597E)
   (descr "Diode SMA (DO-214AC)")
   (tags "Diode SMA (DO-214AC)")
   (attr smd)

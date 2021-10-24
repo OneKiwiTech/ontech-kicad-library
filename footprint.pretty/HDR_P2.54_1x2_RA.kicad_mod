@@ -1,5 +1,5 @@
-(footprint "HDR_P2.54_1x2_RA" (version 20210126) (generator pcbnew) (layer "F.Cu")
-  (tedit 602298E7)
+(footprint "HDR_P2.54_1x2_RA" (version 20210722) (generator pcbnew) (layer "F.Cu")
+  (tedit 61755C08)
   (descr "Through hole angled pin header, 1x10, 2.54mm pitch, 6mm pin length, single row")
   (tags "Through hole angled pin header THT 1x10 2.54mm single row")
   (attr through_hole)
@@ -35,9 +35,9 @@
   (fp_rect (start 4.064 -1.524) (end 10.16 -1.016) (layer "F.Fab") (width 0.1) (fill none) (tstamp a48c5526-3301-4f7a-a9c1-39c6641df8cc))
   (fp_rect (start -0.254 -1.524) (end 1.524 -1.016) (layer "F.Fab") (width 0.1) (fill none) (tstamp d57fd06f-339b-41f4-983d-39263b0542de))
   (fp_rect (start -0.254 1.524) (end 1.524 1.016) (layer "F.Fab") (width 0.1) (fill none) (tstamp d609bce6-c48e-48b0-ba42-23d20f5152d7))
-  (pad "1" thru_hole roundrect (at 0 -1.27) (locked) (size 2.032 1.778) (drill 1.016) (layers *.Cu *.Mask) (roundrect_rratio 0.1) (tstamp 961652ce-7933-4386-a667-b25bfdf04038))
-  (pad "2" thru_hole oval (at 0 1.27) (locked) (size 2.032 1.778) (drill 1.016) (layers *.Cu *.Mask) (tstamp 430cbbbd-887d-4cbe-a6a8-e70af1f81dfb))
-  (model "${DIR_3DMODEL}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Horizontal.wrl"
+  (pad "1" thru_hole roundrect locked (at 0 -1.27) (size 2.032 1.778) (drill 1.016) (layers *.Cu *.Mask) (roundrect_rratio 0.1) (tstamp 961652ce-7933-4386-a667-b25bfdf04038))
+  (pad "2" thru_hole oval locked (at 0 1.27) (size 2.032 1.778) (drill 1.016) (layers *.Cu *.Mask) (tstamp 430cbbbd-887d-4cbe-a6a8-e70af1f81dfb))
+  (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Horizontal.wrl"
     (offset (xyz 0 1.27 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

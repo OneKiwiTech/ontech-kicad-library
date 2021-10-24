@@ -1,5 +1,5 @@
 (footprint "TSSOP20_4.4x6.5_P0.65" (version 20210722) (generator pcbnew) (layer "F.Cu")
-  (tedit 612736CE)
+  (tedit 617566F1)
   (descr "TSSOP, 20 Pin (JEDEC MO-153 Var AC https://www.jedec.org/document_search?search_api_views_fulltext=MO-153), generated with kicad-footprint-generator ipc_gullwing_generator.py")
   (tags "TSSOP SO")
   (attr smd)

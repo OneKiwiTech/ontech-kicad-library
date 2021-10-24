@@ -1,5 +1,5 @@
 (footprint "KF_5.08_3_RA" (version 20210722) (generator pcbnew) (layer "F.Cu")
-  (tedit 6131FAF0)
+  (tedit 61755EB8)
   (descr "simple 2-pin terminal block, pitch 5.08mm, revamped version of bornier2")
   (tags "terminal block bornier2")
   (attr through_hole)

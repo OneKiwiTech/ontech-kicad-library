@@ -1,5 +1,5 @@
-(footprint "R0402" (version 20210228) (generator pcbnew) (layer "F.Cu")
-  (tedit 604B3F16)
+(footprint "R0402" (version 20210722) (generator pcbnew) (layer "F.Cu")
+  (tedit 6175635B)
   (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
   (tags "capacitor")
   (attr smd)
@@ -26,11 +26,11 @@
   (fp_line (start 0.889 0.508) (end 0.889 -0.508) (layer "F.Fab") (width 0.1) (tstamp bc8535b2-d279-4b70-8826-e2495ddcb833))
   (fp_line (start -0.889 -0.508) (end 0.889 -0.508) (layer "F.Fab") (width 0.1) (tstamp c2e4487f-814d-4f51-8415-06c98d11c5c9))
   (fp_line (start -0.889 0.508) (end -0.889 -0.508) (layer "F.Fab") (width 0.1) (tstamp e5161624-abcb-4f01-8fad-256b42400ea6))
-  (pad "1" smd rect (at -0.635 0) (locked) (size 0.635 0.635) (layers "F.Cu" "F.Paste" "F.Mask")
+  (pad "1" smd rect locked (at -0.635 0) (size 0.635 0.635) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.0762) (tstamp 80958964-8e96-4968-892f-88d16ca9d08e))
-  (pad "2" smd rect (at 0.635 0) (locked) (size 0.635 0.635) (layers "F.Cu" "F.Paste" "F.Mask")
+  (pad "2" smd rect locked (at 0.635 0) (size 0.635 0.635) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.0762) (tstamp af913dc5-1a50-4b3d-b3b4-4404ea3de76c))
-  (model "${DIR_3DMODEL}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0402_1005Metric.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

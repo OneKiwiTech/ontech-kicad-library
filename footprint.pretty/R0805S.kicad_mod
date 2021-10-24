@@ -1,5 +1,5 @@
-(footprint "R0805S" (version 20210424) (generator pcbnew) (layer "F.Cu")
-  (tedit 60995B23)
+(footprint "R0805S" (version 20210722) (generator pcbnew) (layer "F.Cu")
+  (tedit 617563A0)
   (descr "Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator")
   (tags "capacitor")
   (attr smd)
@@ -30,7 +30,7 @@
     (solder_mask_margin 0.0762) (tstamp e9b8ddec-f586-405b-905d-71736cae2810))
   (pad "2" smd rect locked (at 0.889 0) (size 0.889 1.397) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.0762) (tstamp b0eeeff6-7015-4223-b0f3-0d6ab63f20dd))
-  (model "${DIR_3DMODEL}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
