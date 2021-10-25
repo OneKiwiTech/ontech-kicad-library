@@ -1,5 +1,5 @@
 (footprint "WFBGA153_13x11P5_P0.5" (version 20210722) (generator pcbnew) (layer "F.Cu")
-  (tedit 61756949)
+  (tedit 6176BA98)
   (descr "Capacitor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
   (tags "capacitor")
   (attr smd)

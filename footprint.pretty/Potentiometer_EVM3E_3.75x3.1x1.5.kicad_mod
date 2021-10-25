@@ -1,5 +1,5 @@
 (footprint "Potentiometer_EVM3E_3.75x3.1x1.5" (version 20210722) (generator pcbnew) (layer "F.Cu")
-  (tedit 6175621A)
+  (tedit 6176C070)
   (descr "Potentiometer, vertical, Bourns 3214X, https://www.bourns.com/docs/Product-Datasheets/3214.pdf")
   (tags "Potentiometer vertical Bourns 3214X")
   (attr smd)

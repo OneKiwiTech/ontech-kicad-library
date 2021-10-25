@@ -1,5 +1,5 @@
 (footprint "HDR_P2.54_1x2_RA" (version 20210722) (generator pcbnew) (layer "F.Cu")
-  (tedit 61755C08)
+  (tedit 6176BB4A)
   (descr "Through hole angled pin header, 1x10, 2.54mm pitch, 6mm pin length, single row")
   (tags "Through hole angled pin header THT 1x10 2.54mm single row")
   (attr through_hole)

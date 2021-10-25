@@ -1,5 +1,5 @@
-(footprint "HDR_P2.54_1x4_RA" (version 20210126) (generator pcbnew) (layer "F.Cu")
-  (tedit 602298B1)
+(footprint "HDR_P2.54_1x4_RA" (version 20210722) (generator pcbnew) (layer "F.Cu")
+  (tedit 6176BBA1)
   (descr "Through hole angled pin header, 1x10, 2.54mm pitch, 6mm pin length, single row")
   (tags "Through hole angled pin header THT 1x10 2.54mm single row")
   (attr through_hole)
@@ -47,11 +47,11 @@
   (fp_rect (start -0.254 3.556) (end 1.524 4.064) (layer "F.Fab") (width 0.1) (fill none) (tstamp bae8b421-8a14-46ec-8ca8-e34774d1ac1d))
   (fp_rect (start -0.254 -4.064) (end 1.524 -3.556) (layer "F.Fab") (width 0.1) (fill none) (tstamp bfe2f328-eee7-4351-87e4-32d95ad2a4ec))
   (fp_rect (start -0.254 -1.524) (end 1.524 -1.016) (layer "F.Fab") (width 0.1) (fill none) (tstamp ef07bff7-71c9-4489-bfa8-55522c6c8d19))
-  (pad "1" thru_hole roundrect (at 0 -3.81) (locked) (size 2.032 1.778) (drill 1.016) (layers *.Cu *.Mask) (roundrect_rratio 0.1) (tstamp f5556e03-e040-4dec-8956-2eddd983e94b))
-  (pad "2" thru_hole oval (at 0 -1.27) (locked) (size 2.032 1.778) (drill 1.016) (layers *.Cu *.Mask) (tstamp d9b8dc01-695f-4590-ab91-b76324ccec3d))
-  (pad "3" thru_hole oval (at 0 1.27) (locked) (size 2.032 1.778) (drill 1.016) (layers *.Cu *.Mask) (tstamp e5ddf470-8757-4257-976f-5022fa98c181))
+  (pad "1" thru_hole roundrect locked (at 0 -3.81) (size 2.032 1.778) (drill 1.016) (layers *.Cu *.Mask) (roundrect_rratio 0.1) (tstamp f5556e03-e040-4dec-8956-2eddd983e94b))
+  (pad "2" thru_hole oval locked (at 0 -1.27) (size 2.032 1.778) (drill 1.016) (layers *.Cu *.Mask) (tstamp d9b8dc01-695f-4590-ab91-b76324ccec3d))
+  (pad "3" thru_hole oval locked (at 0 1.27) (size 2.032 1.778) (drill 1.016) (layers *.Cu *.Mask) (tstamp e5ddf470-8757-4257-976f-5022fa98c181))
   (pad "4" thru_hole oval (at 0 3.81) (size 2.032 1.778) (drill 1.016) (layers *.Cu *.Mask) (tstamp 1df55a6e-14dd-4be2-bfa4-cdf66cb0f3ca))
-  (model "${DIR_3DMODEL}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x04_P2.54mm_Horizontal.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x04_P2.54mm_Horizontal.wrl"
     (offset (xyz 0 3.81 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

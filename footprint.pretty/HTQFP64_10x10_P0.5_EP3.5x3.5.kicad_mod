@@ -1,5 +1,5 @@
 (footprint "HTQFP64_10x10_P0.5_EP3.5x3.5" (version 20210722) (generator pcbnew) (layer "F.Cu")
-  (tedit 61755D5E)
+  (tedit 6176BEBE)
   (descr "http://infocenter.nordicsemi.com/index.jsp?topic=%2Fcom.nordic.infocenter.nrf52%2Fdita%2Fnrf52%2Fchips%2Fnrf52840.html")
   (tags "AQFN 7mm ")
   (attr smd)

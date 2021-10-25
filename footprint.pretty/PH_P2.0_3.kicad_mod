@@ -1,5 +1,5 @@
-(footprint "PH_P2.0_3" (version 20210126) (generator pcbnew) (layer "F.Cu")
-  (tedit 60228566)
+(footprint "PH_P2.0_3" (version 20210722) (generator pcbnew) (layer "F.Cu")
+  (tedit 6176BF49)
   (descr "JST PH series connector, B16B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator")
   (tags "connector JST PH side entry")
   (fp_text reference "REF**" (at 0 0) (layer "F.SilkS")
@@ -37,7 +37,7 @@
   (pad "1" thru_hole roundrect (at -2 0) (size 1.27 1.778) (drill 0.762) (layers *.Cu *.Mask) (roundrect_rratio 0.2) (tstamp b1fc4c3e-7296-4fd7-815c-63fa9a5f26e4))
   (pad "2" thru_hole oval (at 0 0) (size 1.27 1.778) (drill 0.762) (layers *.Cu *.Mask) (tstamp b84dd1e5-dc5d-4f0a-bbac-a18d4d31b154))
   (pad "3" thru_hole oval (at 2 0) (size 1.27 1.778) (drill 0.762) (layers *.Cu *.Mask) (tstamp df8a87fc-dd8d-4e6e-87a1-ff8a09a054ae))
-  (model "${DIR_3DMODEL}/Connector_JST.3dshapes/JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical.wrl"
+  (model "${KICAD6_3DMODEL_DIR}/Connector_JST.3dshapes/JST_PH_B3B-PH-K_1x03_P2.00mm_Vertical.wrl"
     (offset (xyz -2 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

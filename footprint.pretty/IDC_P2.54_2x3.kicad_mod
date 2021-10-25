@@ -1,5 +1,5 @@
 (footprint "IDC_P2.54_2x3" (version 20210722) (generator pcbnew) (layer "F.Cu")
-  (tedit 61755E7C)
+  (tedit 6176BEC8)
   (descr "Through hole IDC box header, 2x10, 2.54mm pitch, DIN 41651 / IEC 60603-13, double rows, https://docs.google.com/spreadsheets/d/16SsEcesNF15N3Lb4niX7dcUr-NY5_MFPQhobNuNppn4/edit#gid=0")
   (tags "Through hole vertical IDC box header THT 2x10 2.54mm double row")
   (attr through_hole)
