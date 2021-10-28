@@ -1,5 +1,10 @@
 # kmt-kicad-library
 
+### Config path
+
+- **DIR_3DMODEL** : *path/kmt-kicad-library/3dmodels*
+- **DIR_SHEET** : *path/kmt-kicad-library/sheet*
+
 ## KiPart
 https://xesscorp.github.io/KiPart
 
