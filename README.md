@@ -6,8 +6,25 @@
 - **DIR_SHEET** : *path/kmt-kicad-library/sheet*
 
 ## KiPart
-https://xesscorp.github.io/KiPart
+https://github.com/devbisme/KiPart
 
 ### Installation
 - `pip install kipart`
 - `kipart -s name nrf52840.xlsx -o nrf52840.lib`
+
+
+## Schematic Field name Template
+- Assembly Option
+- Description
+- Distributor
+- Distributor Part#
+- Manufacturer
+- Manufacturer Part#
+
+- Package
+- Power
+- Voltage
+- Current
+- Tolerance
+- Material
+- Function
