@@ -1,9 +1,9 @@
-# kmt-kicad-library
+# ontek-kicad-library
 
 ### Config path
 
-- **DIR_3DMODEL** : *path/kmt-kicad-library/3dmodels*
-- **DIR_SHEET** : *path/kmt-kicad-library/sheet*
+- **DIR_3DMODEL** : *path/ontek-kicad-library/3dmodels*
+- **DIR_SHEET** : *path/ontek-kicad-library/sheet*
 
 ## KiPart
 https://github.com/devbisme/KiPart
