@@ -1,6 +1,6 @@
 (footprint "DF40C-100DP-0.4V(51)" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61A5D79A)
+  (tedit 61A81069)
   (attr smd)
   (fp_text reference "REF**" (at 0 -2.8 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -228,4 +228,9 @@
     (solder_mask_margin 0.0762) (tstamp 08ea6852-cb28-407d-8b64-3cbd644a06cd))
   (pad "100" smd roundrect (at 9.8 -1.4) (size 0.2 0.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.25)
     (solder_mask_margin 0.0762) (tstamp c1cba4f0-a004-482d-892d-f847ee7ff45f))
+  (model "${DIR_3DMODEL}/Connector_FFC-FPC.3dshapes/DF40C-100DP-0.4V(51).stp"
+    (offset (xyz 6.731 -0.889 0.635))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 90))
+  )
 )

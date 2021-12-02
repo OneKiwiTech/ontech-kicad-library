@@ -1,6 +1,6 @@
 (footprint "UQFN68_8.0x8.0_P0.4_EP4.3x4.3" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61A2579E)
+  (tedit 61A80C86)
   (attr smd)
   (fp_text reference "REF**" (at 0 -5.334 unlocked) (layer "F.SilkS")
     (effects (font (size 1 1) (thickness 0.15)))
@@ -195,4 +195,9 @@
   (pad "69" smd rect (at 1.524 0) (size 1.016 1.016) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.0762) (tstamp dcf1281d-70fd-42b8-828d-73dda02fbe03))
   (pad "69" thru_hole circle (at -1.524 0) (size 0.762 0.762) (drill 0.508) (layers *.Cu *.Mask) (tstamp ec0e0b7d-f7a6-4cd8-96ff-a9a3a8f736c5))
+  (model "${DIR_3DMODEL}/Package_DFN_QFN.3dshapes/UQFN68_8.0x8.0_P0.4.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
