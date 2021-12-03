@@ -1,6 +1,6 @@
 (footprint "D_SMA" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 619E3109)
+  (tedit 61A9D5AF)
   (descr "Diode SMA (DO-214AC)")
   (tags "Diode SMA (DO-214AC)")
   (attr smd)
@@ -35,7 +35,7 @@
   (fp_line (start 0.50118 0.75032) (end 0.50118 -0.79908) (layer "F.Fab") (width 0.1) (tstamp c6a4dacb-e508-496e-b2c9-346f56e44757))
   (pad "A" smd rect (at 2 0) (size 2.5 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.0762) (tstamp c70657ed-427b-4054-8c41-9ada48a91213))
-  (pad "K" smd rect (at -2 0) (size 2.5 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
+  (pad "C" smd rect (at -2 0) (size 2.5 1.8) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.0762) (tstamp 82f40c27-4e8a-428b-afb2-b790aec3c7f3))
   (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SMA.wrl"
     (offset (xyz 0 0 0))
