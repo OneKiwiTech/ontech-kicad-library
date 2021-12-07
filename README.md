@@ -1,4 +1,4 @@
-# ontek-kicad-library
+# ontech-kicad-library
 
 ### Config path
 
