@@ -12,7 +12,7 @@
     Fields: Item. Category, Value, References, Package, Description, Distributor, Distributor Part#, Manufacturer, Manufacturer Part#, Quantity
     Outputs ungrouped components first, then outputs grouped components.
     Command line:
-    python "pathToFile/bom_kmtek.py" "%I" "%O.csv"
+    python "pathToFile/bom_ontech.py" "%I" "%O.csv"
 """
 
 from __future__ import print_function
@@ -56,7 +56,12 @@ net = kicad_netlist_reader.netlist(sys.argv[1])
 # Open a file to write to, if the file cannot be opened output to stdout
 # instead
 try:
-    f = open(sys.argv[2], 'w', encoding="utf-8")
+    name = sys.argv[2]
+    cnt = name.rfind('/')
+    name1 = name[:cnt+1]
+    name2 = name[cnt+1:]
+    name = name1 + 'bom_' + name2
+    f = open(name, 'w', encoding="utf-8")
 except IOError:
     e = "Can't open output file for writing: " + sys.argv[2]
     print( __file__, ":", e, sys.stderr )
@@ -88,6 +93,8 @@ for group in grouped:
     for component in group:
         refs += component.getRef() + ", "
         c = component
+    cnt = len(refs)
+    refs = refs[:cnt-2]
     
     item += 1
     out.writerow([
