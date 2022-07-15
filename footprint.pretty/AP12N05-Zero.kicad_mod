@@ -6,7 +6,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 0e93f2c9-964a-4f5e-9545-6b3682a4f0ad)
   )
-  (fp_text value "AP12N05-Zero" (at 3.81 5.08 unlocked) (layer "F.Fab")
+  (fp_text value "AP12N05-Zero" (at 3.81 5.08 unlocked) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp e02ca5dc-13f8-4a91-920a-1796738426f0)
   )

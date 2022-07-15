@@ -8,7 +8,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 62816f3d-474a-4cc9-925a-51ce6cd6f1e2)
   )
-  (fp_text value "Cap_Elec_10.0x10.0" (at 0 6.35) (layer "F.Fab")
+  (fp_text value "Cap_Elec_10.0x10.0" (at 0 6.35) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 9097836a-1882-4c37-bef9-44501ef98c2d)
   )

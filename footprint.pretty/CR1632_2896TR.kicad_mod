@@ -7,7 +7,7 @@
     (effects (font (size 1.016 1.016) (thickness 0.1778)))
     (tstamp 204ced6a-41a7-4e20-9dfb-83a6d795ce3f)
   )
-  (fp_text value "CR1632_2896TR" (at 0 0) (layer "F.Fab")
+  (fp_text value "CR1632_2896TR" (at 0 0) (layer "User.1")
     (effects (font (size 0.508 0.508) (thickness 0.127)))
     (tstamp f06b0762-207e-43f3-b238-f866bbc3af3d)
   )

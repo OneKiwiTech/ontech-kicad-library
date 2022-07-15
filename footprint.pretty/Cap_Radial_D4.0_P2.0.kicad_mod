@@ -6,7 +6,7 @@
     (effects (font (size 1.016 1.016) (thickness 0.1778)))
     (tstamp ee793a36-0368-4422-b518-d8332b36499a)
   )
-  (fp_text value "Cap_Radial_D4.0_P2.0" (at 1 3.25) (layer "F.Fab")
+  (fp_text value "Cap_Radial_D4.0_P2.0" (at 1 3.25) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 4e33852f-2a9a-449f-b7c2-ab23d19e3065)
   )

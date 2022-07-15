@@ -5,7 +5,7 @@
   (fp_text reference REF** (at 0 -2.7) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value CP_EIA-7132-28_AVX-C (at 0 2.7) (layer F.Fab)
+  (fp_text value CP_EIA-7132-28_AVX-C (at 0 2.7) (layer User.1)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 3.55 -1.6) (end -2.75 -1.6) (layer F.Fab) (width 0.1))

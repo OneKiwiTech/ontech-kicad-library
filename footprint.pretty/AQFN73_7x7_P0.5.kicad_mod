@@ -7,7 +7,7 @@
     (effects (font (size 1.016 1.016) (thickness 0.1778)))
     (tstamp 8fbab461-55a5-4bac-b935-c50beb51e371)
   )
-  (fp_text value "AQFN73_7x7_P0.5" (at 0.03 5.72) (layer "F.Fab")
+  (fp_text value "AQFN73_7x7_P0.5" (at 0.03 5.72) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp c79599c1-24df-4678-95d5-85c5aa53281d)
   )

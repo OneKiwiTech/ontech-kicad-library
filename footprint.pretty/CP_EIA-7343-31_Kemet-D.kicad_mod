@@ -5,7 +5,7 @@
   (fp_text reference REF** (at 0 -3.1) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value CP_EIA-7343-31_Kemet-D (at 0 3.1) (layer F.Fab)
+  (fp_text value CP_EIA-7343-31_Kemet-D (at 0 3.1) (layer User.1)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 3.65 -2.15) (end -2.65 -2.15) (layer F.Fab) (width 0.1))
