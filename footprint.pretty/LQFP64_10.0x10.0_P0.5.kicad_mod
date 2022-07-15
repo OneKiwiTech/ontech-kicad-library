@@ -10,7 +10,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 8ac400bf-c9b3-4af4-b0a7-9aa9ab4ad17e)
   )
-  (fp_text user "${REF}" (at 0 0 unlocked) (layer "F.Fab")
+  (fp_text user "${REFERENCE}" (at 0 0 unlocked) (layer "F.Fab")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 97dcf785-3264-40a1-a36e-8842acab24fb)
   )
