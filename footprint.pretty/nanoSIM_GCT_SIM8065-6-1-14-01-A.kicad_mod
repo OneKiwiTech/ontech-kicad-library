@@ -5,7 +5,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 3ecac90f-9a37-4806-bee4-f5e022b0081d)
   )
-  (fp_text value "nanoSIM_GCT_SIM8065-6-1-14-01-A" (at 5.588 14.478 unlocked) (layer "F.Fab")
+  (fp_text value "nanoSIM_GCT_SIM8065-6-1-14-01-A" (at 5.588 14.478 unlocked) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 021ee5a5-f41e-4db5-bd20-07b624ac8e0e)
   )

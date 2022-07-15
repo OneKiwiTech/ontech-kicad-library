@@ -7,7 +7,7 @@
     (effects (font (size 1.016 1.016) (thickness 0.1778)))
     (tstamp 1b48a5f1-081d-4ccf-8b22-d178dd8083a4)
   )
-  (fp_text value "PCB_P2.0_1x5" (at 0 0 90) (layer "F.Fab")
+  (fp_text value "PCB_P2.0_1x5" (at 0 0 90) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp b684b518-8862-49d0-aed8-cd99259ce895)
   )

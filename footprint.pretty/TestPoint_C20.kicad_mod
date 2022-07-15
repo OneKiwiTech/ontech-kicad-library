@@ -8,7 +8,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp e00ce5f1-2fe0-4dad-896b-0b1f650bc82c)
   )
-  (fp_text value "TestPoint_C20" (at 0 1.55) (layer "F.Fab")
+  (fp_text value "TestPoint_C20" (at 0 1.55) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp eaba4890-c84f-43fa-819f-6303f84130aa)
   )

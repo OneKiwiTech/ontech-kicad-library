@@ -8,7 +8,7 @@
     (effects (font (size 1.016 1.016) (thickness 0.1778)))
     (tstamp 47f3033f-fe85-439a-bb36-b12a257702a9)
   )
-  (fp_text value "VH_P3.96_3" (at 0 6.096) (layer "F.Fab")
+  (fp_text value "VH_P3.96_3" (at 0 6.096) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp b168e1f8-ddae-403b-b1bb-37219ed28e1d)
   )

@@ -6,7 +6,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 37207224-f90b-4189-8554-4a29894e7fbc)
   )
-  (fp_text value "X2SON8_1.2x1.8_P0.4" (at 0 1.778 unlocked) (layer "F.Fab")
+  (fp_text value "X2SON8_1.2x1.8_P0.4" (at 0 1.778 unlocked) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 162224f5-4786-4489-9c17-6bd98f401986)
   )

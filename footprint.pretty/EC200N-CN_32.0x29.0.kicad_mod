@@ -6,7 +6,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp a0b8595f-9bb0-45fc-8633-d0b568801a54)
   )
-  (fp_text value "EC200N-CN_32.0x29.0" (at 0 1 unlocked) (layer "F.Fab")
+  (fp_text value "EC200N-CN_32.0x29.0" (at 0 1 unlocked) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp e04a8e68-63f1-4874-9f7d-117eb8458997)
   )

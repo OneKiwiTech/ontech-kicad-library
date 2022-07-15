@@ -7,7 +7,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 1076c124-f356-406c-8224-1c49fc0244f6)
   )
-  (fp_text value "VQFP100_14x14_P0.5" (at 0 9.398) (layer "F.Fab")
+  (fp_text value "VQFP100_14x14_P0.5" (at 0 9.398) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp cc2cf3d6-e3d3-4108-954e-c435ceb2bee0)
   )

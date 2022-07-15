@@ -7,7 +7,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 58dbc125-7ce1-47bf-acfc-a66b02358362)
   )
-  (fp_text value "KeyChain" (at 0 2) (layer "F.Fab")
+  (fp_text value "KeyChain" (at 0 2) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp eddc2dd6-70ba-4c3c-bcd8-9c6d9f80e52f)
   )

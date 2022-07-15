@@ -7,7 +7,7 @@
     (effects (font (size 1.016 1.016) (thickness 0.1778)))
     (tstamp d5488901-b6a3-425d-bca7-0cddaf10a4ee)
   )
-  (fp_text value "SOT23_GSD" (at 0 0) (layer "F.Fab")
+  (fp_text value "SOT23_GSD" (at 0 0) (layer "User.1")
     (effects (font (size 0.508 0.508) (thickness 0.127)))
     (tstamp dc321fd9-7dd5-4577-b6ac-fe5c2a2e8a64)
   )

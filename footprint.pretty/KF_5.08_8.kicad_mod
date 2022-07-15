@@ -8,7 +8,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 08918d67-dcf2-4651-ae72-7949683871d1)
   )
-  (fp_text value "KF_5.08_8" (at 0 5.588) (layer "F.Fab")
+  (fp_text value "KF_5.08_8" (at 0 5.588) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 4ceaf85a-ddd5-433d-ba15-8540f494937b)
   )

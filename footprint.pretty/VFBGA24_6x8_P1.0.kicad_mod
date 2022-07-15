@@ -4,7 +4,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 69ceaa07-816f-4d0d-94e9-12ab592a79e5)
   )
-  (fp_text value "VFBGA24_6x8_P1.0" (at 0 1 unlocked) (layer "F.Fab")
+  (fp_text value "VFBGA24_6x8_P1.0" (at 0 1 unlocked) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 0cfc908b-a4cd-4d62-80ff-bb7d9f6f361f)
   )

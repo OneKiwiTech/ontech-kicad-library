@@ -6,7 +6,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 326c3657-df2b-4c3a-8549-71a855edfb9b)
   )
-  (fp_text value "Fuseholder_5x20" (at 0 4.064 unlocked) (layer "F.Fab")
+  (fp_text value "Fuseholder_5x20" (at 0 4.064 unlocked) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 1b4bcb94-695f-4594-ba0e-0259ffc01c1a)
   )

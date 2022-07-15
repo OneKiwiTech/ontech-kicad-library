@@ -5,7 +5,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp ca100dd5-346a-4773-9dc5-6d52f23f9738)
   )
-  (fp_text value "WLCSP12_2.2x1.4_P0.4" (at 0 1 unlocked) (layer "F.Fab")
+  (fp_text value "WLCSP12_2.2x1.4_P0.4" (at 0 1 unlocked) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 39d4f64b-7cad-41cf-85af-364fdb72144c)
   )

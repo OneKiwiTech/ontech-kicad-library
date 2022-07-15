@@ -7,7 +7,7 @@
     (effects (font (size 1.016 1.016) (thickness 0.1778)))
     (tstamp cfea7ddf-2182-4dfd-8780-1771ef36363d)
   )
-  (fp_text value "IDC_P2.54_2x3" (at 0 0 90) (layer "F.Fab")
+  (fp_text value "IDC_P2.54_2x3" (at 0 0 90) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 89f8aa50-438e-4421-bbd3-602688d4246a)
   )

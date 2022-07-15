@@ -7,7 +7,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 5a622451-46ad-41a9-bc47-73bf17418a84)
   )
-  (fp_text value "TSSOP8_4.4x3_P0.65_SGD" (at 0 2.45) (layer "F.Fab")
+  (fp_text value "TSSOP8_4.4x3_P0.65_SGD" (at 0 2.45) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 42b09252-6c74-4868-9aed-8cbe11a9f785)
   )

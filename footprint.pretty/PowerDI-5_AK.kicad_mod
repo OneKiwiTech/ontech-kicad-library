@@ -7,7 +7,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 9f40c06e-4006-4301-8f17-1f34ed36f6fd)
   )
-  (fp_text value "PowerDI-5_AK" (at 0 4.7 180) (layer "F.Fab")
+  (fp_text value "PowerDI-5_AK" (at 0 4.7 180) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 94ee4390-24eb-41df-815e-3e359cb2ddd8)
   )

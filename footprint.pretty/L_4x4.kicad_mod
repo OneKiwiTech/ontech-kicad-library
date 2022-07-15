@@ -8,7 +8,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 697752b0-2a72-4f09-9aef-9f2cd0f0b674)
   )
-  (fp_text value "L_4x4" (at 0 3) (layer "F.Fab")
+  (fp_text value "L_4x4" (at 0 3) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 47d86889-eac5-4d3e-b19e-ab413b657d1d)
   )

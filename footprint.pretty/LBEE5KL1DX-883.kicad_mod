@@ -4,7 +4,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp da97e6ab-8940-4ef0-b778-6dfd6908b150)
   )
-  (fp_text value "LBEE5KL1DX-883" (at 0 1 unlocked) (layer "F.Fab")
+  (fp_text value "LBEE5KL1DX-883" (at 0 1 unlocked) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 4d6ec666-d583-48e2-9cce-c9ce13d35e39)
   )

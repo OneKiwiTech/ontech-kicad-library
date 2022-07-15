@@ -5,7 +5,7 @@
     (effects (font (size 1.016 1.016) (thickness 0.1778)))
     (tstamp e14627fc-0eb2-44d3-abfc-08fb1cf6c1af)
   )
-  (fp_text value "SMD4_6.5x4.6" (at 0 2.64) (layer "F.Fab")
+  (fp_text value "SMD4_6.5x4.6" (at 0 2.64) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 74fb6927-bb5d-444f-940c-529c3009f710)
   )

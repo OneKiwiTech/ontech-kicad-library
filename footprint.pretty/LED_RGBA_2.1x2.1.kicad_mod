@@ -7,7 +7,7 @@
     (effects (font (size 1.016 1.016) (thickness 0.1778)))
     (tstamp c919aef1-7173-474f-9a09-fae57350bef3)
   )
-  (fp_text value "LED_RGBA_2.1x2.1" (at 0 0) (layer "F.Fab")
+  (fp_text value "LED_RGBA_2.1x2.1" (at 0 0) (layer "User.1")
     (effects (font (size 0.508 0.508) (thickness 0.127)))
     (tstamp d43355f6-6b77-4c5f-99d6-bbb42e90bd50)
   )

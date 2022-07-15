@@ -7,7 +7,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 26cc0611-6f15-4f0e-8b90-c86a270e4945)
   )
-  (fp_text value "Jack_3.5mm_PJ-342S" (at 0 7.17) (layer "F.Fab")
+  (fp_text value "Jack_3.5mm_PJ-342S" (at 0 7.17) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp a2e57827-bac3-4a53-9872-4c5c6e690ba8)
   )

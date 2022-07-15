@@ -6,7 +6,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 3f6e6414-bed1-4b21-a96e-009e91bc7451)
   )
-  (fp_text value "Heatsink_TechNexion_EDMHS12M2T2020075KIT" (at 0 27.2 unlocked) (layer "F.Fab")
+  (fp_text value "Heatsink_TechNexion_EDMHS12M2T2020075KIT" (at 0 27.2 unlocked) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 35c08995-bbd3-4eb9-894a-20a001efc2f2)
   )

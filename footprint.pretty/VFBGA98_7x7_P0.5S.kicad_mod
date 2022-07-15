@@ -7,7 +7,7 @@
     (effects (font (size 1.016 1.016) (thickness 0.1778)))
     (tstamp b60682ba-6c94-4e84-880a-f602f3e105bc)
   )
-  (fp_text value "VFBGA98_7x7_P0.5S" (at 0.03 5.72) (layer "F.Fab")
+  (fp_text value "VFBGA98_7x7_P0.5S" (at 0.03 5.72) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp c688b7b5-37cc-4ea8-9ec8-c7cd58a53850)
   )

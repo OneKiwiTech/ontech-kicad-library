@@ -6,7 +6,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 553ab7c1-224d-48ef-b655-6fb88437ec25)
   )
-  (fp_text value "L_5.8x5.2_H4.5" (at 0 3.81 unlocked) (layer "F.Fab")
+  (fp_text value "L_5.8x5.2_H4.5" (at 0 3.81 unlocked) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 867f2535-ff3f-43ac-a982-f01ac37e6bb0)
   )

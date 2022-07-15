@@ -4,7 +4,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp a6152103-4e2f-481b-aa52-54b4b6e6e3a4)
   )
-  (fp_text value "RJ45_Hanrun_HR913550A" (at 0 1 unlocked) (layer "F.Fab")
+  (fp_text value "RJ45_Hanrun_HR913550A" (at 0 1 unlocked) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 7261a203-9988-4b41-88c7-8203eb5ae781)
   )

@@ -6,7 +6,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 1475e472-de89-4906-9990-da587f81ff69)
   )
-  (fp_text value "STM32MP15xxAA-SOM" (at 0 1 unlocked) (layer "F.Fab")
+  (fp_text value "STM32MP15xxAA-SOM" (at 0 1 unlocked) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 98bcef22-54d3-487d-b43f-ccdfca8f78d9)
   )

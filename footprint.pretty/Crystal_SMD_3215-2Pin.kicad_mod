@@ -7,7 +7,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp e0ddd908-1774-4b43-bfe0-a77c04e334a4)
   )
-  (fp_text value "Crystal_SMD_3215-2Pin" (at 0 2) (layer "F.Fab")
+  (fp_text value "Crystal_SMD_3215-2Pin" (at 0 2) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 1078156b-a71f-47ff-9151-797b5ccf4850)
   )

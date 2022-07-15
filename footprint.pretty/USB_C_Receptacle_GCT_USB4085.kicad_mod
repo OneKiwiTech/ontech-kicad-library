@@ -7,7 +7,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 08c4e075-e51e-42ed-9a88-df6ad224e537)
   )
-  (fp_text value "USB_C_Receptacle_GCT_USB4085" (at 2.975 9.925) (layer "F.Fab")
+  (fp_text value "USB_C_Receptacle_GCT_USB4085" (at 2.975 9.925) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 9f7f2ec7-39ed-4a37-8f91-6bb9890623c9)
   )

@@ -7,7 +7,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 758cb620-834d-4090-bfe1-a5c52e8b2291)
   )
-  (fp_text value "WLCSP6_0.8x1.2_P0.4" (at 0 2.4) (layer "F.Fab")
+  (fp_text value "WLCSP6_0.8x1.2_P0.4" (at 0 2.4) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp e879f0bd-b3db-4cf9-baaf-31c3f7ca81e3)
   )

@@ -7,7 +7,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 3f2dc963-1e7b-4dc7-a865-5fc1fae9e07f)
   )
-  (fp_text value "Oscillator_SMD_5.0x3.2_4Pin" (at 0 3.048) (layer "F.Fab")
+  (fp_text value "Oscillator_SMD_5.0x3.2_4Pin" (at 0 3.048) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp d6e49f71-bb12-41e5-9d28-cbe7b4427778)
   )

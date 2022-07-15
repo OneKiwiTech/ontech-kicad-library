@@ -7,7 +7,7 @@
     (effects (font (size 1.016 1.016) (thickness 0.1778)))
     (tstamp 97a27c84-e7d0-44ba-b6ad-26d62202f4f6)
   )
-  (fp_text value "HDR_P2.54_1x8" (at 0 0 90) (layer "F.Fab")
+  (fp_text value "HDR_P2.54_1x8" (at 0 0 90) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 9adb36d8-717c-428f-b5c2-e6d0b4c10834)
   )

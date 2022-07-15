@@ -7,7 +7,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 5d24225d-b3f5-4a38-9ec4-6a7dacd7a36f)
   )
-  (fp_text value "USB_C_Plug_Molex_105444" (at 0 -1.96) (layer "F.Fab")
+  (fp_text value "USB_C_Plug_Molex_105444" (at 0 -1.96) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 35e2bda3-721f-41f8-8696-065cce90e107)
   )

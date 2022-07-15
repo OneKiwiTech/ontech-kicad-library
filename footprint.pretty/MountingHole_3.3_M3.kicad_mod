@@ -7,7 +7,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp c75fd4ca-67d9-492b-b3fc-c92f4f0d7dc0)
   )
-  (fp_text value "MountingHole_3.3_M3" (at 0 4.2) (layer "F.Fab")
+  (fp_text value "MountingHole_3.3_M3" (at 0 4.2) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp a895e2ac-cf27-45dd-b18e-444e7e1a433b)
   )

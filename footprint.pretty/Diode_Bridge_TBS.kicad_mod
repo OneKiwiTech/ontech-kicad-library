@@ -7,7 +7,7 @@
     (effects (font (size 1.016 1.016) (thickness 0.1778)))
     (tstamp 96b0b1bc-5db2-440b-a4db-063aab4fcd46)
   )
-  (fp_text value "Diode_Bridge_TBS" (at 0 6.604) (layer "F.Fab")
+  (fp_text value "Diode_Bridge_TBS" (at 0 6.604) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 99c4382e-3d20-4caa-8bd5-0e41bd283f5a)
   )

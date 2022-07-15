@@ -7,7 +7,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 4449ae07-c61a-4185-93ab-d9a7d07cc3b8)
   )
-  (fp_text value "SW_SPST_B3U-1000P" (at 0 2.5) (layer "F.Fab")
+  (fp_text value "SW_SPST_B3U-1000P" (at 0 2.5) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 611bdb5f-b36b-49ec-a87a-42e0d90660e0)
   )

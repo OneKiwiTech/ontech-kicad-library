@@ -5,7 +5,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 10c983e3-7dea-4e04-aafd-76a1dadd52b4)
   )
-  (fp_text value "USB_C_Plug_UTC009-C12" (at 0 14) (layer "F.Fab")
+  (fp_text value "USB_C_Plug_UTC009-C12" (at 0 14) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 27ae4fb7-9ebb-4eaa-b2c3-e151195aca4e)
   )

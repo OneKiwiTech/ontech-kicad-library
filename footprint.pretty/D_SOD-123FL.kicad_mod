@@ -8,7 +8,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 30519f69-6810-46ec-b480-4b58b03e2a52)
   )
-  (fp_text value "D_SOD-123FL" (at 0 2.1) (layer "F.Fab")
+  (fp_text value "D_SOD-123FL" (at 0 2.1) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp d7a9ec32-bd78-4f00-93cf-63459a476960)
   )

@@ -7,7 +7,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 00000000-0000-0000-0000-000000000000)
   )
-  (fp_text value "L_8D43_8045_8x8" (at 0 -5.1) (layer "F.Fab")
+  (fp_text value "L_8D43_8045_8x8" (at 0 -5.1) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 00000000-0000-0000-0000-000000000000)
   )

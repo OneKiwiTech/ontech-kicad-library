@@ -7,7 +7,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp e87b0826-07c0-411f-bed2-c3aba5587ba1)
   )
-  (fp_text value "microSD_Header_GCT" (at 0 2.54) (layer "F.Fab")
+  (fp_text value "microSD_Header_GCT" (at 0 2.54) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp e3729728-f8fe-40f1-b567-0867162c8bf5)
   )

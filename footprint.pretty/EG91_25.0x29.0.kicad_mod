@@ -6,7 +6,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp fb057f93-25cf-41d7-b42c-2c91abe36293)
   )
-  (fp_text value "EG91_25.0x29.0" (at 0 15.5 unlocked) (layer "F.Fab")
+  (fp_text value "EG91_25.0x29.0" (at 0 15.5 unlocked) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 52949d03-308a-492a-a7db-0b832c760392)
   )

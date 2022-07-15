@@ -6,7 +6,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 96a2fa97-82d5-42de-b8b5-9ea338320384)
   )
-  (fp_text value "PH_P2.0_2" (at 0 0) (layer "F.Fab")
+  (fp_text value "PH_P2.0_2" (at 0 0) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp a1fbbe9f-581f-41ea-8d2b-049f29bc1c63)
   )

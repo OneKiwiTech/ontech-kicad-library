@@ -6,7 +6,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 2dc66fb8-4b0c-45c9-94a2-68b2e771531d)
   )
-  (fp_text value "DO-214AB" (at -0.04 4.07) (layer "F.Fab")
+  (fp_text value "DO-214AB" (at -0.04 4.07) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 7514653d-e17e-447e-92a0-3d7bf07c97e8)
   )

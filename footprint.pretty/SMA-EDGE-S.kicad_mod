@@ -7,7 +7,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 8fb2eb46-96e0-41fc-8ba2-a30878609352)
   )
-  (fp_text value "SMA-EDGE-S" (at -1.72 -7.11) (layer "F.Fab")
+  (fp_text value "SMA-EDGE-S" (at -1.72 -7.11) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 9a9ce022-e611-4333-94ee-92d1f08337f7)
   )

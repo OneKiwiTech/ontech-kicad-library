@@ -8,7 +8,7 @@
     (effects (font (size 1.016 1.016) (thickness 0.1778)))
     (tstamp 0b2c743b-bd06-4309-8879-66c31b3d6056)
   )
-  (fp_text value "LFBGA448_18x18_P0.8" (at 0 0) (layer "F.Fab")
+  (fp_text value "LFBGA448_18x18_P0.8" (at 0 0) (layer "User.1")
     (effects (font (size 0.508 0.508) (thickness 0.127)))
     (tstamp 46ef27e7-dea7-4363-acf1-adedf002f892)
   )

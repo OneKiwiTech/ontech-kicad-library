@@ -8,7 +8,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp eafbfc39-5e6d-4677-b998-783a14b205de)
   )
-  (fp_text value "D_SMA" (at 0 2.6) (layer "F.Fab")
+  (fp_text value "D_SMA" (at 0 2.6) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp a67ee26c-21cd-4578-8e99-6ae3cab3f278)
   )

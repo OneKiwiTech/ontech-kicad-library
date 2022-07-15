@@ -4,7 +4,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp d43ad518-6e20-4d3a-ae9b-5d56c7eea466)
   )
-  (fp_text value "HVQFN40_6x6_P0.5_EP4x4" (at 0 1 unlocked) (layer "F.Fab")
+  (fp_text value "HVQFN40_6x6_P0.5_EP4x4" (at 0 1 unlocked) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp ae8ba46c-a89e-42e4-b8c4-b406bf3457b9)
   )

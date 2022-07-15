@@ -6,7 +6,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 63f73b7e-3840-49d9-82ef-426386d00877)
   )
-  (fp_text value "USB_Ax2_RA" (at 0 3.048 unlocked) (layer "F.Fab")
+  (fp_text value "USB_Ax2_RA" (at 0 3.048 unlocked) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 9fa9fa3f-19fc-437e-9894-d2862ba1b343)
   )

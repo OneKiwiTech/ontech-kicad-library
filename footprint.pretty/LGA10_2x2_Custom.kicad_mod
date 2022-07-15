@@ -7,7 +7,7 @@
     (effects (font (size 1.016 1.016) (thickness 0.1778)))
     (tstamp 00f7358e-42e3-43d9-9a3f-cb2c8b0a1e34)
   )
-  (fp_text value "LGA10_2x2_Custom" (at 0.03 3.5) (layer "F.Fab")
+  (fp_text value "LGA10_2x2_Custom" (at 0.03 3.5) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 5eb65523-d8b8-49c5-9d76-8435df5d4625)
   )

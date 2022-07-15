@@ -7,7 +7,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 89467233-446e-4020-8b5a-c54c97253df1)
   )
-  (fp_text value "TO-263-3" (at 0 10.16 180) (layer "F.Fab")
+  (fp_text value "TO-263-3" (at 0 10.16 180) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp c928c79a-23cb-4657-a843-90ccdea6c879)
   )

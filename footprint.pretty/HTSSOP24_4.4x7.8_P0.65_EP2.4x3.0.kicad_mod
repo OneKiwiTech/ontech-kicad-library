@@ -6,7 +6,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 86621ac5-67d1-415a-9f5d-50c00797ade3)
   )
-  (fp_text value "HTSSOP24_4.4x7.8_P0.65_EP2.4x3.0" (at 0 5.334 unlocked) (layer "F.Fab")
+  (fp_text value "HTSSOP24_4.4x7.8_P0.65_EP2.4x3.0" (at 0 5.334 unlocked) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp ab191be4-b445-44e3-8c3c-8dc11ec4bde9)
   )

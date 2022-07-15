@@ -7,7 +7,7 @@
     (effects (font (size 1.016 1.016) (thickness 0.1778)))
     (tstamp 1a50fc79-9f21-4217-ad68-ec7d19f62d7e)
   )
-  (fp_text value "HX2QFN20_3x3_P0.4_EP1.9x1.9" (at 0.03 3.5) (layer "F.Fab")
+  (fp_text value "HX2QFN20_3x3_P0.4_EP1.9x1.9" (at 0.03 3.5) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp c04fd0b5-a4ae-4223-bff4-85b9de91f5ce)
   )

@@ -6,7 +6,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 89021dde-57a3-49de-b279-ecb0c3633eda)
   )
-  (fp_text value "L1008_2.5x2.0x1.2" (at 0 2 unlocked) (layer "F.Fab")
+  (fp_text value "L1008_2.5x2.0x1.2" (at 0 2 unlocked) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 416e845c-225e-449d-a589-2a2fa46d1295)
   )

@@ -7,7 +7,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp fa3ca1a0-b4d4-4d6e-87ff-d577c1d1783b)
   )
-  (fp_text value "SW_DIP_SPSTx03_5.4x5.4_P1.27" (at 0 3.865) (layer "F.Fab")
+  (fp_text value "SW_DIP_SPSTx03_5.4x5.4_P1.27" (at 0 3.865) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 70b1c09d-de49-4290-a79a-b65a060b0f3e)
   )

@@ -4,7 +4,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp ece8dbe7-86b0-4349-85d6-96b5d3dcb160)
   )
-  (fp_text value "MSOP8_3X3_P0.65_EP1.85X2.15" (at 0 2.54 unlocked) (layer "F.Fab")
+  (fp_text value "MSOP8_3X3_P0.65_EP1.85X2.15" (at 0 2.54 unlocked) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp c49cdf3e-de0d-438b-8ad8-c347b7db428a)
   )

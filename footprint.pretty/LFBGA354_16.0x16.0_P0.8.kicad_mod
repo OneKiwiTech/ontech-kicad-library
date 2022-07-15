@@ -6,7 +6,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp d96a9163-7f41-44ef-bd9c-ff946a22aba4)
   )
-  (fp_text value "LFBGA354_16.0x16.0_P0.8" (at 0 8.89 unlocked) (layer "F.Fab")
+  (fp_text value "LFBGA354_16.0x16.0_P0.8" (at 0 8.89 unlocked) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 8a14508c-3a8f-4197-823b-b1792f918fd4)
   )

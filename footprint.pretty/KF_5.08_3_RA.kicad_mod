@@ -7,7 +7,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 3b0beefe-3285-4e54-b3ce-ec2544c3e1b7)
   )
-  (fp_text value "KF_5.08_3_RA" (at 0 3.81) (layer "F.Fab")
+  (fp_text value "KF_5.08_3_RA" (at 0 3.81) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 00feb1e2-1269-4312-b5dc-3a40b0b72e6b)
   )

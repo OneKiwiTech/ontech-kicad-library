@@ -6,7 +6,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 14eab46e-c80e-46b2-9665-73e4a8c21729)
   )
-  (fp_text value "Module_NRF24L01" (at 5.08 3.556 unlocked) (layer "F.Fab")
+  (fp_text value "Module_NRF24L01" (at 5.08 3.556 unlocked) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 134990d2-0436-4f3e-9c3e-12f62b992216)
   )

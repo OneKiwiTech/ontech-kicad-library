@@ -8,7 +8,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 466027e0-bf3a-4ccc-b093-8e2340fc9c3d)
   )
-  (fp_text value "Heatsink_45x100mm" (at 0 0) (layer "F.Fab")
+  (fp_text value "Heatsink_45x100mm" (at 0 0) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 94d99fd5-b0da-4ab8-acbe-62c4c6b57ab5)
   )

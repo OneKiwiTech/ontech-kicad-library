@@ -7,7 +7,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 4d2183a1-8345-4eb2-ab6b-8c0cf9326709)
   )
-  (fp_text value "Potentiometer_EVM3E_3.75x3.1x1.5" (at -0.1 4.75) (layer "F.Fab")
+  (fp_text value "Potentiometer_EVM3E_3.75x3.1x1.5" (at -0.1 4.75) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 51623cc7-69d1-47af-88b1-d0b9b492b3ad)
   )

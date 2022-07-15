@@ -5,7 +5,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 54d6f0da-66c5-45f8-8ee7-17faf88ae918)
   )
-  (fp_text value "USB_C_Plug_Adafruit_4932" (at 0.225 2.65) (layer "F.Fab")
+  (fp_text value "USB_C_Plug_Adafruit_4932" (at 0.225 2.65) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 207f1cd8-8503-4a0f-b00b-8eafb7218326)
   )

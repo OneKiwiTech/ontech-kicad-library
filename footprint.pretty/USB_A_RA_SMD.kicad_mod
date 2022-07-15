@@ -8,7 +8,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 01fc4136-4c24-4e4c-bd0d-13a97447daf9)
   )
-  (fp_text value "USB_A_RA_SMD" (at 0 3.048 180) (layer "F.Fab")
+  (fp_text value "USB_A_RA_SMD" (at 0 3.048 180) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp c1037131-7073-4a1f-9327-c4a0eda6f529)
   )

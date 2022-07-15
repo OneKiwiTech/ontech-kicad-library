@@ -8,7 +8,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 4b2f4623-2f7c-4477-b219-58b7d81b69a8)
   )
-  (fp_text value "SW_Tactile_SPST" (at 0 5.38988) (layer "F.Fab")
+  (fp_text value "SW_Tactile_SPST" (at 0 5.38988) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 1ca1252f-0092-4ba6-9505-07455094ae0d)
   )

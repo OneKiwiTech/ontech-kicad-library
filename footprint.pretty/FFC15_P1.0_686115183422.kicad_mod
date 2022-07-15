@@ -4,7 +4,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 350af4db-eee2-4143-85d2-10ae4f4bda63)
   )
-  (fp_text value "FFC15_P1.0_686115183422" (at 0 1.524 unlocked) (layer "F.Fab")
+  (fp_text value "FFC15_P1.0_686115183422" (at 0 1.524 unlocked) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp a0a6cf97-2e93-4467-9dfe-b940ccc016d9)
   )
