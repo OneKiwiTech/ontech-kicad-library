@@ -39837,7 +39837,7 @@
     (property "Value" "STM32WB55Rx" (id 1) (at 0 6.35 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 0 0 0)
+    (property "Footprint" "footprint:VFQFPN68_8.0x8.0_P0.4_EP6.4x6.4" (id 2) (at 0 1.27 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0)
