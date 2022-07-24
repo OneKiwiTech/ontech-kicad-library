@@ -147,4 +147,9 @@
     (solder_mask_margin 0.0762) (tstamp e3b8f3e4-5db2-40a3-86ba-6c37216656ce))
   (pad "49" smd rect (at 0 2) (size 1.5 1.5) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.0762) (tstamp eb1220d4-efd5-4896-b676-7b1be26f9866))
+  (model "${ONEKIWI_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/UFQFPN48_7.0x7.0_P0.5_EP5.6x5.6.stp"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
