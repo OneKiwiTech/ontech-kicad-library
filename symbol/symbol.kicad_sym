@@ -16194,7 +16194,7 @@
     (property "Value" "LFB182G45CGFD436" (id 1) (at 0 6.35 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (id 2) (at 0 0 0)
+    (property "Footprint" "footprint:LFB182G45CGFD436" (id 2) (at 0 1.27 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0)
