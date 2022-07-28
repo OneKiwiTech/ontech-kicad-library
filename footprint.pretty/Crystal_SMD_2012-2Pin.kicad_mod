@@ -24,4 +24,9 @@
     (solder_mask_margin 0.0762) (tstamp 7697a28f-d1b5-4053-807b-f4dbf27d35cd))
   (pad "2" smd rect (at 0.75 0) (size 0.7 1.4) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.0762) (tstamp 0f3de986-0086-4aff-bada-80cbc214f80e))
+  (model "${ONEKIWI_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_2012-2Pin.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
