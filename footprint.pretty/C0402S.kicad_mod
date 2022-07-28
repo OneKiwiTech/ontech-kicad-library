@@ -1,7 +1,6 @@
 (footprint "C0402S" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 61A9D61F)
-  (descr "Capacitor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
   (tags "capacitor")
   (attr smd)
   (fp_text reference "REF**" (at 0 -1.27) (layer "F.SilkS")
