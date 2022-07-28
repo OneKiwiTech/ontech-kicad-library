@@ -1,6 +1,7 @@
 (footprint "B1812" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 61A597B2)
+  (tags "ferrite bead")
   (attr smd)
   (fp_text reference "REF**" (at 0 -2.794 unlocked) (layer "F.SilkS")
     (effects (font (size 1.016 1.016) (thickness 0.1778)))
