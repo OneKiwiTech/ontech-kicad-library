@@ -1,6 +1,7 @@
 (footprint "R1806" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 61A59883)
+  (tags "resistor")
   (attr smd)
   (fp_text reference "REF**" (at 0 -1.905 unlocked) (layer "F.SilkS")
     (effects (font (size 1.016 1.016) (thickness 0.1778)))

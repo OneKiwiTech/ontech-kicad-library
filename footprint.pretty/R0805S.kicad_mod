@@ -1,7 +1,7 @@
 (footprint "R0805S" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 61A585C3)
-  (tags "capacitor")
+  (tags "resistor")
   (attr smd)
   (fp_text reference "REF**" (at 0 -2.032) (layer "F.SilkS")
     (effects (font (size 1.016 1.016) (thickness 0.1778)))
