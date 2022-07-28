@@ -1,4 +1,5 @@
-(footprint "DFN10_3x3_P0.5_EP1.7x2.4" (version 20211014) (generator pcbnew) (layer "F.Cu")
+(footprint "DFN10_3.0x3.0_P0.5_EP1.7x2.4" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
   (tedit 6178F363)
   (attr smd)
   (fp_text reference "REF**" (at 0 -2.4 unlocked) (layer "F.SilkS")

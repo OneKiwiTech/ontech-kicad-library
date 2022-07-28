@@ -1,7 +1,7 @@
-(footprint "ANT_NFC_22x14" (version 20211014) (generator pcbnew) (layer "F.Cu")
+(footprint "ANT_NFC_22x14" (version 20211014) (generator pcbnew)
+  (layer "F.Cu")
   (tedit 6194A727)
-  (descr "Capacitor SMD 1210 (3225 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
-  (tags "capacitor")
+  (tags "antenna")
   (attr smd)
   (fp_text reference "REF**" (at 5 -1.27) (layer "F.SilkS")
     (effects (font (size 1.016 1.016) (thickness 0.1778)))
@@ -48,7 +48,7 @@
   (zone (net 0) (net_name "") (layer "F.Cu") (tstamp 5da5d7f8-9027-4ad7-afd0-5058f1465ad9) (hatch edge 0.508)
     (connect_pads (clearance 0))
     (min_thickness 0.254)
-    (keepout (tracks allowed) (vias allowed) (pads allowed ) (copperpour not_allowed) (footprints allowed))
+    (keepout (tracks allowed) (vias allowed) (pads allowed) (copperpour not_allowed) (footprints allowed))
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
@@ -62,7 +62,7 @@
   (zone (net 0) (net_name "") (layer "F.Cu") (tstamp 702fb9ff-1c6d-46ec-8a79-1f5db518feb8) (hatch edge 0.508)
     (connect_pads (clearance 0))
     (min_thickness 0.254)
-    (keepout (tracks allowed) (vias allowed) (pads allowed ) (copperpour not_allowed) (footprints allowed))
+    (keepout (tracks allowed) (vias allowed) (pads allowed) (copperpour not_allowed) (footprints allowed))
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
@@ -76,7 +76,7 @@
   (zone (net 0) (net_name "") (layer "F.Cu") (tstamp 93a1ccac-782a-4067-8408-08dc3c9631f6) (hatch edge 0.508)
     (connect_pads (clearance 0))
     (min_thickness 0.254)
-    (keepout (tracks allowed) (vias allowed) (pads not_allowed ) (copperpour not_allowed) (footprints allowed))
+    (keepout (tracks allowed) (vias allowed) (pads not_allowed) (copperpour not_allowed) (footprints allowed))
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
@@ -90,7 +90,7 @@
   (zone (net 0) (net_name "") (layer "F.Cu") (tstamp a183ff1d-2c20-4581-af32-e5d0a6ad6e5a) (hatch edge 0.508)
     (connect_pads (clearance 0))
     (min_thickness 0.254)
-    (keepout (tracks allowed) (vias allowed) (pads allowed ) (copperpour not_allowed) (footprints allowed))
+    (keepout (tracks allowed) (vias allowed) (pads allowed) (copperpour not_allowed) (footprints allowed))
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
@@ -104,7 +104,7 @@
   (zone (net 0) (net_name "") (layer "F.Cu") (tstamp a6d217ac-29d1-4e7f-8c70-a51e09368f5b) (hatch edge 0.508)
     (connect_pads (clearance 0))
     (min_thickness 0.254)
-    (keepout (tracks allowed) (vias allowed) (pads allowed ) (copperpour not_allowed) (footprints allowed))
+    (keepout (tracks allowed) (vias allowed) (pads allowed) (copperpour not_allowed) (footprints allowed))
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
@@ -118,7 +118,7 @@
   (zone (net 0) (net_name "") (layer "F.Cu") (tstamp c477d4b1-5efa-4b82-8074-5100630ba49e) (hatch edge 0.508)
     (connect_pads (clearance 0))
     (min_thickness 0.254)
-    (keepout (tracks allowed) (vias allowed) (pads allowed ) (copperpour not_allowed) (footprints allowed))
+    (keepout (tracks allowed) (vias allowed) (pads allowed) (copperpour not_allowed) (footprints allowed))
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
@@ -132,7 +132,7 @@
   (zone (net 0) (net_name "") (layer "F.Cu") (tstamp cf13d424-f02c-453b-af08-86121e5ca96a) (hatch edge 0.508)
     (connect_pads (clearance 0))
     (min_thickness 0.254)
-    (keepout (tracks allowed) (vias allowed) (pads allowed ) (copperpour not_allowed) (footprints allowed))
+    (keepout (tracks allowed) (vias allowed) (pads allowed) (copperpour not_allowed) (footprints allowed))
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
@@ -146,7 +146,7 @@
   (zone (net 0) (net_name "") (layer "F.Cu") (tstamp edb37fca-94b0-4612-83cb-1c116559b8dd) (hatch edge 0.508)
     (connect_pads (clearance 0))
     (min_thickness 0.254)
-    (keepout (tracks allowed) (vias allowed) (pads allowed ) (copperpour not_allowed) (footprints allowed))
+    (keepout (tracks allowed) (vias allowed) (pads allowed) (copperpour not_allowed) (footprints allowed))
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
