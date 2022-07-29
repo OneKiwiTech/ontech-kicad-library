@@ -43,4 +43,9 @@
   (pad "9" smd roundrect (at 0 0) (size 0.25 1.6) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0)
     (chamfer_ratio 0.5) (chamfer top_left)
     (solder_mask_margin 0.0762) (tstamp 7bab7117-0c50-471b-9fde-ff44a4f9bcc5))
+  (model "${ONEKIWI_3DMODEL_DIR}/Package_SO.3dshapes/USON8_3.0x2.0_P0.5_EP0.2x1.6.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
