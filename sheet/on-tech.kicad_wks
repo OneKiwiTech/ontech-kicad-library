@@ -26,7 +26,7 @@
   (tbtext "${COMMENT1}" (name "") (pos 96 10.7) (font (size 1.5 1.5) bold))
   (tbtext "${TITLE}" (name "") (pos 88 15.5) (font (size 2 2) bold italic))
   (line (name "") (start 110 18.5) (end 2 18.5))
-  (tbtext "https://gitlab.com/onekiwitech" (name "") (pos 108 21) (font italic) (comment "Comment 0")
+  (tbtext "https://github.com/OneKiwiTech" (name "") (pos 108 21) (font italic) (comment "Comment 0")
 )
   (tbtext "Smart Devices & IoT Solutions" (name "") (pos 108 25) (font (size 1.5 1.5)) (comment "Comment 1")
 )
