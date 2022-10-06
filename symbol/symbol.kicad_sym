@@ -17819,7 +17819,7 @@
     (property "Datasheet" "" (id 3) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Catogery" "IC" (id 4) (at 0 3.81 0)
+    (property "Category" "IC" (id 4) (at 0 3.81 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (symbol "MA850_0_1"
