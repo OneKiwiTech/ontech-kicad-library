@@ -9,7 +9,7 @@
     Output: CSV (comma-separated)
     Grouped By: Value
     Sorted By: Ref
-    Fields: Item. Category, Value, References, Package, Description, Assembly, Distributor, Distributor Part#, Manufacturer, Manufacturer Part#, Quantity
+    Fields: Item, Category, Value, References, Package, Description, Assembly, Distributor, Distributor Part#, Manufacturer, Manufacturer Part#, Quantity
     Outputs ungrouped components first, then outputs grouped components.
     Command line:
     python "pathToFile/bom_ontech.py" "%I" "%O.csv"
@@ -98,6 +98,7 @@ for group in grouped:
             c = component
     cnt = len(refs)
     refs = refs[:cnt-2]
+    footprint = net.getGroupFootprint(group).split(":")[1]
     
     if cnt > 0:
         item += 1
@@ -106,7 +107,7 @@ for group in grouped:
             c.getField("Category"),
             c.getValue(),
             refs,
-            net.getGroupFootprint(group),
+            footprint,
             c.getField("Description"),
             c.getField("Assembly"),
             c.getField("Distributor"),
