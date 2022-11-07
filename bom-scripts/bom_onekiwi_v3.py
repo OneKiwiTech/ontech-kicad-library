@@ -29,16 +29,16 @@ net = kicad_netlist_reader.netlist(sys.argv[1])
 # Open a file to write to, if the file cannot be opened output to stdout
 # instead
 try:
-    name = sys.argv[2]
-    cnt = name.rfind('/')
-    name1 = name[:cnt+1]
-    name2 = name[cnt+1:]
-    name = name1 + 'bom_' + name2
+    dir = os.path.dirname(sys.argv[2])
+    name = os.path.basename(sys.argv[2])
+    name = "bom_" + name
+    pathfile = os.path.join(dir, "", name)
+    print ("Output: " + pathfile)
 
-    f = kicad_utils.open_file_writeUTF8(name, 'w')
+    f = kicad_utils.open_file_writeUTF8(pathfile, 'w')
     #f = open(name, 'w', encoding="utf-8")
 except IOError:
-    e = "Can't open output file for writing: " + sys.argv[2]
+    e = "Can't open output file for writing: " + pathfile
     print(__file__, ":", e, sys.stderr)
     f = sys.stdout
 
