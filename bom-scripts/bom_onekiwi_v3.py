@@ -81,7 +81,11 @@ for group in grouped:
             quantity += 1
 
     if quantity > 0:
-        footprint = net.getGroupFootprint(group).split(":")[1]
+        footprint = ""
+        try:
+            footprint = net.getGroupFootprint(group).split(":")[1]
+        except:
+            pass
         cnt = len(refs)
         refs = refs[:cnt-2]
 
