@@ -13364,7 +13364,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Category" "PCB" (id 4) (at -1.27 -2.54 0)
-      (effects (font (size 1.27 1.27)) (justify left))
+      (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "ki_keywords" "fiducial marker" (id 5) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
