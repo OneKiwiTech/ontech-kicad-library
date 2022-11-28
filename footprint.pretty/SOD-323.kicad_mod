@@ -34,6 +34,6 @@
   (fp_line (start -0.85 0.625) (end -0.85 -0.625) (layer "F.Fab") (width 0.1) (tstamp fa25fa1e-a184-4566-8e8d-81ef8d4cbaee))
   (pad "A" smd rect (at 1.2 0) (size 0.508 0.762) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.0762) (tstamp 73a86c11-9d76-4cbd-a4a8-872ee5e59240))
-  (pad "K" smd rect (at -1.2 0) (size 0.508 0.762) (layers "F.Cu" "F.Paste" "F.Mask")
+  (pad "C" smd rect (at -1.2 0) (size 0.508 0.762) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.0762) (tstamp 783a0d62-df50-4044-b3d1-4bf7ed81899e))
 )
