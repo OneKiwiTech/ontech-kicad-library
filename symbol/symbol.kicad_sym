@@ -51382,7 +51382,7 @@
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TestPoint" (id 1) (at 1.27 -1.27 0)
-      (effects (font (size 1.27 1.27)) (justify left))
+      (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Footprint" "footprint:TestPoint_C40" (id 2) (at 1.27 -6.35 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
