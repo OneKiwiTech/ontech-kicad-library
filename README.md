@@ -34,3 +34,7 @@ https://github.com/devbisme/KiPart
 - Tolerance
 - Material
 - Function
+
+## Create Power Symbol
+- `cd power`
+- `go run main.go P3V3 P5V0 P12V0`
