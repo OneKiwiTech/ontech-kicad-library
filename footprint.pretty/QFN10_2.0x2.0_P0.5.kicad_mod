@@ -6,7 +6,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp c1bca9b7-7343-46fd-9e98-46fcb183f3c3)
   )
-  (fp_text value "QFN10_2.0x2.0_P0.5" (at 0 0 unlocked) (layer "User.1")
+  (fp_text value "QFN10_2.0x2.0_P0.5" (at 0 2.286 unlocked) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp a4f248dd-4b3b-4818-8c4a-931faf5b1df6)
   )
@@ -47,9 +47,9 @@
     (solder_mask_margin 0.0762) (tstamp e43592e0-037f-4c1d-b68d-d4b1a10f7506))
   (pad "10" smd rect (at 0 -1) (size 0.25 0.8) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_mask_margin 0.0762) (tstamp 0bacfece-46d9-4eea-a318-b6a9db699a7e))
-  (model "${ONEKIWI_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/UQFN10_1.5x2.0_P0.5.step"
-    (offset (xyz 0 0 0))
+  (model "${ONEKIWI_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN10_2.0x2.0_P0.5.step"
+    (offset (xyz -1 -1 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 0))
+    (rotate (xyz 0 0 0))
   )
 )
