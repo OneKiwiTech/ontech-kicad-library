@@ -6,7 +6,7 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 3064fa67-1327-455c-b853-8c4aa7ff82a4)
   )
-  (fp_text value "QFN8_3.0X3.0_P0.65_EP1.6X2.4" (at 0 0 unlocked) (layer "User.1")
+  (fp_text value "QFN8_3.0X3.0_P0.65_EP1.6X2.4" (at 0 2.54 unlocked) (layer "User.1")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 0d2f41a8-259c-48ce-ad87-5c5df56ace33)
   )
