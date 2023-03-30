@@ -30,9 +30,9 @@
   (fp_line (start -1.6 0.8) (end 1.6 0.8) (layer "F.Fab") (width 0.1) (tstamp 95b0b48d-93b8-454c-9abe-b3227c191486))
   (fp_line (start -1.2 -0.8) (end -1.6 -0.4) (layer "F.Fab") (width 0.1) (tstamp c4dbf86f-8f11-4835-81bf-ccd32ba76106))
   (pad "N" smd rect (at 1.35 0) (size 1.4 1.35) (layers "F.Cu" "F.Paste" "F.Mask")
-    (solder_mask_margin 0.0762) (tstamp 83c97b18-f054-4d0e-a430-a2f86664b45c))
+    (solder_paste_margin 0.0762) (tstamp 83c97b18-f054-4d0e-a430-a2f86664b45c))
   (pad "P" smd rect (at -1.35 0) (size 1.4 1.35) (layers "F.Cu" "F.Paste" "F.Mask")
-    (solder_mask_margin 0.0762) (tstamp f59c530e-670f-4f34-8404-29a0ea4e0fe8))
+    (solder_paste_margin 0.0762) (tstamp f59c530e-670f-4f34-8404-29a0ea4e0fe8))
   (model "${KICAD6_3DMODEL_DIR}/Capacitor_Tantalum_SMD.3dshapes/CP_EIA-3216-18_Kemet-A.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))

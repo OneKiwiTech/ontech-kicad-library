@@ -30,9 +30,9 @@
   (fp_rect (start -10 -10) (end 10 10) (layer "F.CrtYd") (width 0.0254) (fill none) (tstamp 4a9c083b-dd3f-4953-b03d-bfa63d818c16))
   (fp_circle (center 0 0) (end 10.16 0) (layer "F.Fab") (width 0.1) (fill none) (tstamp 6489fce0-498c-4634-a358-6cf42811b781))
   (pad "1" smd rect (at 8.5 0) (size 2 4) (layers "F.Cu" "F.Paste" "F.Mask")
-    (solder_mask_margin 0.0762) (tstamp 927f7624-3654-45b2-9b68-06d23bb8c5eb))
+    (solder_paste_margin 0.0762) (tstamp 927f7624-3654-45b2-9b68-06d23bb8c5eb))
   (pad "1" smd rect (at -8.5 0) (size 2 4) (layers "F.Cu" "F.Paste" "F.Mask")
-    (solder_mask_margin 0.0762) (tstamp acccd68d-85e4-4850-beea-2b7bcc8ef4f4))
+    (solder_paste_margin 0.0762) (tstamp acccd68d-85e4-4850-beea-2b7bcc8ef4f4))
   (pad "2" smd circle (at 0 0) (size 8 8) (layers "F.Cu" "F.Mask") (tstamp 0f6c24bb-bfb5-4595-8bef-79042e5e7fc5))
   (model "${ONEKIWI_3DMODEL_DIR}/Battery.3dshapes/CR2032_closed_battery_BH.step"
     (offset (xyz 0 0 3.302))

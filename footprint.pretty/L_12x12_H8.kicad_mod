@@ -82,9 +82,9 @@
   (fp_line (start -1.5 5.3) (end -2.1 5.1) (layer "F.Fab") (width 0.1) (tstamp f43a47c2-9e32-40cf-b037-aa372b6b2e70))
   (fp_circle (center -2.1 3) (end -1.8 3.25) (layer "F.Fab") (width 0.1) (fill none) (tstamp bb9e6815-bcf3-4294-9b71-6201da274067))
   (pad "1" smd rect (at -5.08 0) (locked) (size 3.048 5.588) (layers "F.Cu" "F.Paste" "F.Mask")
-    (solder_mask_margin 0.0762) (tstamp d0556d63-c0e0-400d-a7d0-a8f5f21fc274))
+    (solder_paste_margin 0.0762) (tstamp d0556d63-c0e0-400d-a7d0-a8f5f21fc274))
   (pad "2" smd rect (at 5.08 0) (locked) (size 3.048 5.588) (layers "F.Cu" "F.Paste" "F.Mask")
-    (solder_mask_margin 0.0762) (tstamp c89acb37-8b8f-46e4-a125-9ec7127fae93))
+    (solder_paste_margin 0.0762) (tstamp c89acb37-8b8f-46e4-a125-9ec7127fae93))
   (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_12x12mm_H8mm.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))

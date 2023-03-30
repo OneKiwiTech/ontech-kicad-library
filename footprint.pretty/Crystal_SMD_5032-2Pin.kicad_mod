@@ -41,9 +41,9 @@
   (fp_line (start -2.3 1.6) (end -2.5 1.4) (layer "F.Fab") (width 0.1) (tstamp 8cae8ead-4870-4518-b150-594a0b071238))
   (fp_line (start 2.3 1.6) (end -2.3 1.6) (layer "F.Fab") (width 0.1) (tstamp dd93e5b5-79b8-4f42-9468-8e2b7ce1d621))
   (pad "1" smd rect locked (at -2.032 0) (size 2.032 2.54) (layers "F.Cu" "F.Paste" "F.Mask")
-    (solder_mask_margin 0.0762) (tstamp 29560d32-1f6c-48f6-ba8d-b894d5de83a1))
+    (solder_paste_margin 0.0762) (tstamp 29560d32-1f6c-48f6-ba8d-b894d5de83a1))
   (pad "2" smd rect locked (at 2.032 0) (size 2.032 2.54) (layers "F.Cu" "F.Paste" "F.Mask")
-    (solder_mask_margin 0.0762) (tstamp 25f19997-8512-4808-91ae-05f6175c13b8))
+    (solder_paste_margin 0.0762) (tstamp 25f19997-8512-4808-91ae-05f6175c13b8))
   (model "${ONEKIWI_3DMODEL_DIR}/Crystal.3dshapes/Crystal_SMD_5032-2Pin.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))

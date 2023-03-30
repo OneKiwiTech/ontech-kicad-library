@@ -39,9 +39,9 @@
   (fp_line (start 0.1 -0.2) (end -0.2 0) (layer "F.Fab") (width 0.1) (tstamp d6c920ed-128b-4f7a-b3e7-ec1334900a18))
   (fp_line (start 0.1 0.2) (end 0.1 -0.2) (layer "F.Fab") (width 0.1) (tstamp eb6691ad-87dc-4080-b5c0-3f907caf412d))
   (pad "A" smd rect (at 0.635 0 180) (size 0.635 0.508) (layers "F.Cu" "F.Paste" "F.Mask")
-    (solder_mask_margin 0.0762) (tstamp 6cf18891-eceb-4714-8d22-1a8b4851cdac))
+    (solder_paste_margin 0.0762) (tstamp 6cf18891-eceb-4714-8d22-1a8b4851cdac))
   (pad "C" smd rect (at -0.635 0 180) (size 0.635 0.508) (layers "F.Cu" "F.Paste" "F.Mask")
-    (solder_mask_margin 0.0762) (tstamp 58128baf-5ab4-4be1-a6fc-5c0dedb48fc1))
+    (solder_paste_margin 0.0762) (tstamp 58128baf-5ab4-4be1-a6fc-5c0dedb48fc1))
   (model "${KICAD6_3DMODEL_DIR}/Diode_SMD.3dshapes/D_SOD-523.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
