@@ -54,7 +54,7 @@
     (solder_paste_margin 0.0762) (tstamp 82226d16-d420-41b8-82dd-ce225571dc86))
   (pad "4" smd rect (at 2.7 1.85) (size 1 0.7) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_paste_margin 0.0762) (tstamp 387d7dd2-9d98-4861-a83b-bf7a8a30cf06))
-  (model "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_EVPBF.wrl"
+  (model ":ONEKIWI_3DMODEL_DIR:Button_Switch_SMD.3dshapes/SKQGABE010.STEP"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
