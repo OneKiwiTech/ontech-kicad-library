@@ -157,4 +157,9 @@
     (solder_paste_margin 0.0762) (thermal_bridge_angle 45) (tstamp 966e2130-db16-496c-901a-a0ed8e5b62ac))
   (pad "49" smd rect (at 1.6 1.6) (size 1.2 1.2) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_paste_margin 0.0762) (thermal_bridge_angle 45) (tstamp c8663b82-e6c1-4796-b4c9-87b338667a1f))
+  (model ":ONEKIWI_3DMODEL_DIR:Package_DFN_QFN.3dshapes/TQFN48_6.0x6.0_P0.4_EP4.4x4.4.stp"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

@@ -48,6 +48,20 @@
     (solder_paste_margin 0.0762) (tstamp 7a463dda-dc5f-40c6-a6d1-3d0473aef109))
   (pad "2" smd rect (at 0.762 0) (size 0.762 0.889) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_paste_margin 0.0762) (tstamp 8c62935b-bbfa-4adc-89fc-af925cdffa00))
+  (zone (net 0) (net_name "") (layer "F.Cu") (tstamp a1fab3cd-dd9e-4084-9a16-7bc0260bcd5b) (hatch full 0.5)
+    (connect_pads (clearance 0))
+    (min_thickness 0.25) (filled_areas_thickness no)
+    (keepout (tracks allowed) (vias allowed) (pads allowed) (copperpour not_allowed) (footprints allowed))
+    (fill (thermal_gap 0.5) (thermal_bridge_width 0.5))
+    (polygon
+      (pts
+        (xy -0.2 0.5)
+        (xy -0.2 -0.5)
+        (xy 0.2 -0.5)
+        (xy 0.2 0.5)
+      )
+    )
+  )
   (model "${KICAD6_3DMODEL_DIR}/Inductor_SMD.3dshapes/L_0603_1608Metric.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
