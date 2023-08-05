@@ -46,6 +46,14 @@ func CreatePower(path string, texts string, name string) {
 	DeleteLastLine(path)
 	text := strings.Replace(texts, "POWER_NAME", name, -1)
 	file, err := os.OpenFile(path, os.O_APPEND|os.O_CREATE|os.O_WRONLY, 0644)
+	filename := ""
+	if strings.Contains(path, "symbol_power_in") {
+		filename = "symbol_power_in"
+	} else if strings.Contains(path, "symbol_power_out") {
+		filename = "symbol_power_out"
+	} else {
+		filename = "symbol_power"
+	}
 
 	if err != nil {
 		fmt.Println("Could not open file")
@@ -60,6 +68,7 @@ func CreatePower(path string, texts string, name string) {
 		fmt.Println("Could not write text to file")
 
 	} else {
-		fmt.Println("Operation successful! Text has been appended to file")
+		//fmt.Println("Operation successful! Text has been appended to file")
+		fmt.Printf("POWER_NAME: %s added to %s\n", name, filename)
 	}
 }
