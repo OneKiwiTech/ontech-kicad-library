@@ -13,20 +13,12 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 94d44dae-03ae-4451-9f76-f7d8572e0b48)
   )
-  (fp_line (start -10.8 -10.8) (end -10 -10.8)
+  (fp_line (start -11 -11) (end -10 -11)
     (stroke (width 0.1778) (type default)) (layer "F.SilkS") (tstamp 810272f3-e424-47da-aa58-6cc21b6d5025))
-  (fp_line (start -10.8 -10) (end -10.8 -10.8)
+  (fp_line (start -11 -10) (end -11 -11)
     (stroke (width 0.1778) (type default)) (layer "F.SilkS") (tstamp f442a1f2-e90a-4fb4-98b4-fae3477e52a3))
-  (fp_rect (start -10.5 -10.5) (end 10.5 10.5)
+  (fp_rect (start -10.7 -10.7) (end 10.7 10.7)
     (stroke (width 0.1778) (type default)) (fill none) (layer "F.SilkS") (tstamp 609bd436-d513-442f-9b09-198a4f78813b))
-  (fp_poly
-    (pts
-      (xy -10.5 -10.5)
-      (xy -10.5 -9.75)
-      (xy -9.75 -10.5)
-    )
-
-    (stroke (width 0.1) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 9124f715-ae7a-4597-af5d-a6f4934aa496))
   (fp_rect (start -10.75 -10.75) (end 10.75 10.75)
     (stroke (width 0.0254) (type default)) (fill none) (layer "F.CrtYd") (tstamp 389222d4-5b42-4869-9fba-78e3114f6067))
   (fp_line (start -10.5 -9.75) (end -9.75 -10.5)
@@ -1135,4 +1127,9 @@
     (solder_paste_margin 0.0762) (tstamp f82062b8-b236-4081-a5ed-5379f62ec32c))
   (pad "Y25" smd circle (at 9.6 5.6) (size 0.33 0.33) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_paste_margin 0.0762) (tstamp 0905a7a2-825c-49ff-8267-a54eb9b6a78a))
+  (model ":ONEKIWI_3DMODEL_DIR:Package_BGA.3dshapes/LFBGA551_21.0x21.0_P0.8.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )

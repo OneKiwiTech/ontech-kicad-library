@@ -14,22 +14,14 @@
       (effects (font (size 0.508 0.508) (thickness 0.127)))
     (tstamp a99afcac-cd17-40c5-95a5-13104a5c3136)
   )
-  (fp_line (start -7 -5.2) (end -7 -6.2)
-    (stroke (width 0.1778) (type solid)) (layer "F.SilkS") (tstamp 5e93ae73-8ff1-40d0-a9c5-371b569ee995))
-  (fp_line (start -7 5.2) (end -7 6.2)
+  (fp_line (start -6.8 -5.8) (end -6.8 5.8)
     (stroke (width 0.1778) (type solid)) (layer "F.SilkS") (tstamp 935252b7-44e1-45b0-ad9e-d2668ada8f29))
-  (fp_line (start -6 -6.2) (end -7 -6.2)
+  (fp_line (start 6.8 -5.8) (end -6.8 -5.8)
     (stroke (width 0.1778) (type solid)) (layer "F.SilkS") (tstamp f0d27bca-a431-42ed-a07e-38008dac15d0))
-  (fp_line (start -6 6.2) (end -7 6.2)
+  (fp_line (start 6.8 5.8) (end -6.8 5.8)
     (stroke (width 0.1778) (type solid)) (layer "F.SilkS") (tstamp b59cf165-b0fe-4a41-9893-7e95a1f4f235))
-  (fp_line (start 6 -6.2) (end 7 -6.2)
-    (stroke (width 0.1778) (type solid)) (layer "F.SilkS") (tstamp 20894e5e-cbf8-4419-9227-58bc23c2e163))
-  (fp_line (start 6 6.2) (end 7 6.2)
-    (stroke (width 0.1778) (type solid)) (layer "F.SilkS") (tstamp 4f680de5-0039-451f-9ecc-dafc8634c7d6))
-  (fp_line (start 7 -5.2) (end 7 -6.2)
+  (fp_line (start 6.8 5.8) (end 6.8 -5.8)
     (stroke (width 0.1778) (type solid)) (layer "F.SilkS") (tstamp 7c70e22d-9168-48ca-878b-026a181e1f83))
-  (fp_line (start 7 5.2) (end 7 6.2)
-    (stroke (width 0.1778) (type solid)) (layer "F.SilkS") (tstamp c5762fbf-108c-4bfc-b41f-7dca341b22c5))
   (fp_poly
     (pts
       (xy -7.2 5.6)
@@ -38,14 +30,6 @@
     )
 
     (stroke (width 0.0254) (type solid)) (fill solid) (layer "F.SilkS") (tstamp 3102d993-fd5c-41d3-9dde-5f89c0be5df6))
-  (fp_poly
-    (pts
-      (xy -7 6.2)
-      (xy -7 5.8)
-      (xy -6.6 6.2)
-    )
-
-    (stroke (width 0.0254) (type solid)) (fill solid) (layer "F.SilkS") (tstamp a78465a1-0aae-4198-a47d-d52a58030f5f))
   (fp_rect (start -6.858 -6.096) (end 6.858 6.096)
     (stroke (width 0.0254) (type solid)) (fill none) (layer "F.CrtYd") (tstamp 5f50a8e7-8c27-4037-b694-20faf87bb7d3))
   (fp_line (start -5.5 5.5) (end -6.5 4.5)
