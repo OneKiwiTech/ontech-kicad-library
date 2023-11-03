@@ -37,5 +37,5 @@
   (line (name "") (start 63 8.5) (end 63 5.5))
   (tbtext "Page Title:" (name "") (pos 109 10.7) (font (size 1.5 1.5)))
   (tbtext "Drawing Title:" (name "") (pos 109 15.5) (font (size 2 2)))
-  (tbtext "ONEKIWI" (name "") (pos 3.589 26) (font (face "Ubuntu") (size 8 8) bold) (justify right))
+  (tbtext "OneKiwi" (name "") (pos 3.589 26.0002) (font (face "Ubuntu") (size 8 8) bold) (justify right))
 )

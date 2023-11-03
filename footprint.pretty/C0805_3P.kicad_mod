@@ -46,4 +46,9 @@
     (solder_paste_margin 0.0762) (thermal_bridge_angle 45) (tstamp ca055e00-a146-4ea2-ad1e-85101e7f008c))
   (pad "3" smd rect (at 1 0) (size 0.6 1) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_paste_margin 0.0762) (thermal_bridge_angle 45) (tstamp 337df14b-dc73-4aae-aa0e-7bd23eac281f))
+  (model ":ONEKIWI_3DMODEL_DIR:Capacitor_SMD.3dshapes/C0805_3P.STEP"
+    (offset (xyz 0 0 0.9652))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 90 0 0))
+  )
 )
