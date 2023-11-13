@@ -28,7 +28,7 @@
   (line (name "") (start 110 18.5) (end 2 18.5))
   (tbtext "https://github.com/OneKiwiTech" (name "") (pos 108 21) (font italic) (comment "Comment 0")
 )
-  (tbtext "Smart Devices & IoT Solutions" (name "") (pos 108 25) (font (size 1.5 1.5)) (comment "Comment 1")
+  (tbtext "Connecting Futures" (name "") (pos 108 25) (font (size 1.5 1.5)) (comment "Comment 1")
 )
   (tbtext "OneKiwi Technology Co., Ltd" (name "") (pos 109 30) (font (face "Ubuntu") (size 2.5 2.5) bold))
   (line (name "") (start 90 8.5) (end 90 5.5))
