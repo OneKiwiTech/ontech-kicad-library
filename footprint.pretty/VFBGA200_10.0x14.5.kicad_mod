@@ -425,4 +425,9 @@
     (solder_paste_margin 0.0762) (tstamp a224d83b-a634-4dae-a94b-4d5d9bdf1f81))
   (pad "Y12" smd circle (at 4.4 5.525) (size 0.33 0.33) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_paste_margin 0.0762) (tstamp c241dbde-5ca4-4cde-9cde-113b1808b8f8))
+  (model ":ONEKIWI_3DMODEL_DIR:Package_BGA.3dshapes/VFBGA200_10.0x14.5.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
