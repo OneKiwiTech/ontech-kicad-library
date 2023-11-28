@@ -33,4 +33,9 @@
     (solder_paste_margin 0.0762) (tstamp 773c99d7-4a0f-4b7a-9e08-a5f6cc3163b0))
   (pad "5" smd rect (at 1.1 -0.65) (size 0.8 0.3) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_paste_margin 0.0762) (tstamp 5373a872-6416-4803-8662-0c8a5b91ddff))
+  (model ":ONEKIWI_3DMODEL_DIR:Package_TO_SOT_SMD.3dshapes/TSSOP5.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
