@@ -72,4 +72,9 @@
     (solder_paste_margin 0.0762) (thermal_bridge_angle 45) (tstamp ec7abf37-91fa-4158-aa13-a422f729e476))
   (pad "9" smd rect (at 1 1.5) (size 1.2 1) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_paste_margin 0.0762) (thermal_bridge_angle 45) (tstamp 1d99b13a-ac37-447e-a4fc-e29c018c0032))
+  (model ":ONEKIWI_3DMODEL_DIR:Package_DFN_QFN.3dshapes/UDFN8_6.0x5.0_P1.27_EP3.4x4.0.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
