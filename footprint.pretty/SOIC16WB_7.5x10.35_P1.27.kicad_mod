@@ -27,7 +27,7 @@
 			)
 		)
 	)
-	(property "Footprint" ""
+	(property "Footprint" "SOIC16WB_7.5x10.35_P1.27"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -249,5 +249,16 @@
 		(solder_paste_margin 0.0762)
 		(thermal_bridge_angle 45)
 		(uuid "cf47915e-7df5-4870-9a98-7557488deff0")
+	)
+	(model "${KICAD8_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-16W_7.5x10.3mm_P1.27mm.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
 	)
 )

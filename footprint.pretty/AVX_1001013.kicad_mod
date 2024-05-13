@@ -27,7 +27,7 @@
 			)
 		)
 	)
-	(property "Footprint" ""
+	(property "Footprint" "AVX_1001013"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -155,5 +155,16 @@
 		(solder_paste_margin 0.0762)
 		(thermal_bridge_angle 45)
 		(uuid "b41104d0-7c74-4626-8d8c-2f636cacf22a")
+	)
+	(model "${ONEKIWI_3DMODEL_DIR}/RF_Antenna.3dshapes/AVX_1001013.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
 	)
 )

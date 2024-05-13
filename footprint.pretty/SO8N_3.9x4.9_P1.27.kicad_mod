@@ -27,7 +27,7 @@
 			)
 		)
 	)
-	(property "Footprint" ""
+	(property "Footprint" "SO8N_3.9x4.9_P1.27"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -197,5 +197,16 @@
 		(solder_paste_margin 0.0762)
 		(thermal_bridge_angle 45)
 		(uuid "381ce854-b653-4b67-a8bc-905f488b9c78")
+	)
+	(model "${KICAD6_3DMODEL_DIR}/Package_SO.3dshapes/SOIC-8_3.9x4.9mm_P1.27mm.wrl"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
 	)
 )
