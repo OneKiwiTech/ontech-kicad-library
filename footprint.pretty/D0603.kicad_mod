@@ -64,8 +64,8 @@
 	)
 	(attr smd exclude_from_pos_files)
 	(fp_line
-		(start -1.651 -0.762)
-		(end -0.381 -0.762)
+		(start -1.397 -0.635)
+		(end -0.381 -0.635)
 		(stroke
 			(width 0.1778)
 			(type solid)
@@ -74,8 +74,8 @@
 		(uuid "6e08d9c5-8ad3-4a38-a474-8bc524ae2739")
 	)
 	(fp_line
-		(start -1.651 0.762)
-		(end -1.651 -0.762)
+		(start -1.397 0.635)
+		(end -1.397 -0.635)
 		(stroke
 			(width 0.1778)
 			(type solid)
@@ -84,8 +84,8 @@
 		(uuid "5022d7e9-e98b-4d38-bd52-0ee5ff77b6e9")
 	)
 	(fp_line
-		(start -1.651 0.762)
-		(end -0.381 0.762)
+		(start -1.397 0.635)
+		(end -0.381 0.635)
 		(stroke
 			(width 0.1778)
 			(type solid)
@@ -94,8 +94,8 @@
 		(uuid "e65e01f4-1cde-4cf5-b278-a5a064ed49ef")
 	)
 	(fp_line
-		(start 0.381 -0.762)
-		(end 1.397 -0.762)
+		(start 0.381 -0.635)
+		(end 1.143 -0.635)
 		(stroke
 			(width 0.1778)
 			(type solid)
@@ -104,8 +104,8 @@
 		(uuid "58a7bf87-63a9-430f-80d7-c58de7b75a83")
 	)
 	(fp_line
-		(start 0.381 0.762)
-		(end 1.397 0.762)
+		(start 0.381 0.635)
+		(end 1.143 0.635)
 		(stroke
 			(width 0.1778)
 			(type solid)
@@ -114,8 +114,8 @@
 		(uuid "abb1fc2f-619d-4465-8e5f-48416af91176")
 	)
 	(fp_line
-		(start 1.397 -0.762)
-		(end 1.651 -0.508)
+		(start 1.143 -0.635)
+		(end 1.397 -0.381)
 		(stroke
 			(width 0.1778)
 			(type solid)
@@ -124,8 +124,8 @@
 		(uuid "33737efa-13f5-4263-8ad0-c587660fa4c1")
 	)
 	(fp_line
-		(start 1.397 0.762)
-		(end 1.651 0.508)
+		(start 1.143 0.635)
+		(end 1.397 0.381)
 		(stroke
 			(width 0.1778)
 			(type solid)
@@ -134,8 +134,8 @@
 		(uuid "e2b985e2-a010-40f3-b230-69305e8df227")
 	)
 	(fp_line
-		(start 1.651 0.508)
-		(end 1.651 -0.508)
+		(start 1.397 0.381)
+		(end 1.397 -0.381)
 		(stroke
 			(width 0.1778)
 			(type solid)
@@ -156,8 +156,8 @@
 		(uuid "aa4801f6-0ced-4232-af30-4c49789881db")
 	)
 	(fp_rect
-		(start -1.778 -0.889)
-		(end 1.778 0.889)
+		(start -1.524 -0.762)
+		(end 1.524 0.762)
 		(stroke
 			(width 0.0254)
 			(type solid)
@@ -218,15 +218,15 @@
 		)
 	)
 	(pad "A" smd rect
-		(at -0.889 0)
-		(size 1.016 1.016)
+		(at -0.762 0)
+		(size 0.762 0.889)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(solder_paste_margin 0.0762)
 		(uuid "fdc436a8-66e9-49de-bda2-e4543b595748")
 	)
 	(pad "K" smd rect
-		(at 0.889 0)
-		(size 1.016 1.016)
+		(at 0.762 0)
+		(size 0.762 0.889)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(solder_paste_margin 0.0762)
 		(uuid "1708d0bd-bf02-4a38-93da-c6c6a690e31d")
