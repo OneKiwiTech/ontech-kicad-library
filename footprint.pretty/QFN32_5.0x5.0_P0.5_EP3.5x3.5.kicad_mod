@@ -544,7 +544,7 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(uuid "aedc3164-e506-4dd5-bec2-9f63be586428")
 	)
-	(model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-32-1EP_5x5mm_P0.5mm_EP3.6x3.6mm.wrl"
+	(model "${KICAD8_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN-32-1EP_5x5mm_P0.5mm_EP3.3x3.3mm.step"
 		(offset
 			(xyz 0 0 0)
 		)
