@@ -754,4 +754,15 @@
 			)
 		)
 	)
+	(model "${ONEKIWI_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN59_MPM3695GRF-25.step"
+		(offset
+			(xyz -37 -12 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
