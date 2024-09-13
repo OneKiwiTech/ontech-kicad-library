@@ -64,17 +64,6 @@
 			)
 		)
 		(symbol "GND_0_1"
-			(rectangle
-				(start -1.27 -2.032)
-				(end 1.27 -2.54)
-				(stroke
-					(width 0.1524)
-					(type default)
-				)
-				(fill
-					(type outline)
-				)
-			)
 			(polyline
 				(pts
 					(xy 0 0) (xy 0 -2.032)
@@ -89,6 +78,17 @@
 			)
 		)
 		(symbol "GND_1_1"
+			(rectangle
+				(start -1.016 -2.032)
+				(end 1.016 -2.54)
+				(stroke
+					(width 0)
+					(type default)
+				)
+				(fill
+					(type outline)
+				)
+			)
 			(pin power_in line
 				(at 0 0 270)
 				(length 0) hide

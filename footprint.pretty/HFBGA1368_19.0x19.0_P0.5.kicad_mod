@@ -9846,4 +9846,15 @@
 		(solder_paste_margin 0.0508)
 		(uuid "d9443360-ab72-41ab-9cbd-c61ce5de3dbb")
 	)
+	(model "${ONEKIWI_3DMODEL_DIR}/Package_BGA.3dshapes/HFBGA1368_19.0x19.0_P0.5.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
 )
