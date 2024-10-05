@@ -302,4 +302,15 @@
 		(remove_unused_layers no)
 		(uuid "b3d2027e-de47-49a0-a733-ad2068c67c6d")
 	)
+	(model "${ONEKIWI_3DMODEL_DIR}/usb.3dshapes/USB2.0x2-RA.stp"
+		(offset
+			(xyz 0 7.4 7)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 180)
+		)
+	)
 )

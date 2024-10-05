@@ -67,26 +67,6 @@
 		)
 	)
 	(attr smd)
-	(fp_line
-		(start -8.9 -8.9)
-		(end -8 -8.9)
-		(stroke
-			(width 0.1778)
-			(type default)
-		)
-		(layer "F.SilkS")
-		(uuid "e77f5f63-d214-4ac3-a0a9-f48affdcafde")
-	)
-	(fp_line
-		(start -8.9 -8)
-		(end -8.9 -8.9)
-		(stroke
-			(width 0.1778)
-			(type default)
-		)
-		(layer "F.SilkS")
-		(uuid "7fd0bc98-de13-4464-9ec2-4732b19ed37d")
-	)
 	(fp_rect
 		(start -8.7 8.7)
 		(end 8.7 -8.7)
@@ -97,6 +77,18 @@
 		(fill none)
 		(layer "F.SilkS")
 		(uuid "b615b9f0-633e-4d27-9a70-5b7483451604")
+	)
+	(fp_poly
+		(pts
+			(xy -8.7 -8) (xy -9 -8) (xy -9 -9) (xy -8 -9) (xy -8 -8.7) (xy -8.7 -8.7)
+		)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(fill solid)
+		(layer "F.SilkS")
+		(uuid "a1e67680-bc26-47a7-8e73-c5872dfcc35e")
 	)
 	(fp_rect
 		(start -9 -9)
@@ -1923,5 +1915,16 @@
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(solder_paste_margin 0.0508)
 		(uuid "8c51378e-2697-4467-ae69-7d8c261f336e")
+	)
+	(model "${ONEKIWI_3DMODEL_DIR}/Package_BGA.3dshapes/FBGA256_17.0x17.0_P1.0.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
 	)
 )

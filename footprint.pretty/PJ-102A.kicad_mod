@@ -36,6 +36,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -48,6 +49,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -60,6 +62,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -359,15 +362,15 @@
 		(remove_unused_layers no)
 		(uuid "0e44316c-8911-42cb-bc20-ea130827a431")
 	)
-	(model "${KICAD8_3DMODEL_DIR}/Connector_BarrelJack.3dshapes/BarrelJack_CUI_PJ-102AH_Horizontal.wrl"
+	(model "${ONEKIWI_3DMODEL_DIR}/Connector_DC.3dshapes/PJ-102A.step"
 		(offset
-			(xyz 0 0 0)
+			(xyz 0 -6.4 0)
 		)
 		(scale
 			(xyz 1 1 1)
 		)
 		(rotate
-			(xyz 0 0 0)
+			(xyz -90 0 90)
 		)
 	)
 )
