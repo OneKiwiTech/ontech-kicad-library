@@ -1,7 +1,7 @@
 (footprint "QFN29_5.0x4.0_P0.5"
-	(version 20240108)
+	(version 20240225)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "8.99")
 	(layer "F.Cu")
 	(property "Reference" "REF**"
 		(at 0 -0.5 0)
@@ -27,7 +27,7 @@
 			)
 		)
 	)
-	(property "Footprint" ""
+	(property "Footprint" "QFN29_5.0x4.0_P0.5"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -384,5 +384,16 @@
 		(solder_paste_margin 0.0254)
 		(thermal_bridge_angle 45)
 		(uuid "6caceaae-7447-4109-920f-de5cfd5c871c")
+	)
+	(model "${ONEKIWI_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/QFN29_5.0x4.0_P0.5.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
 	)
 )
