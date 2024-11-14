@@ -21,6 +21,7 @@ https://github.com/devbisme/KiPart
 
 ## Schematic Field name Template
 - Assembly
+- Category
 - Description
 - Distributor
 - Distributor Part#
