@@ -202,4 +202,15 @@
 		(solder_paste_margin 0.0762)
 		(uuid "29f9e224-de0c-40d3-8828-3dbebcd4cdb9")
 	)
+	(model "${ONEKIWI_3DMODEL_DIR}/Package_SO.3dshapes/HVSSOP8_3.0x3.0_P0.65.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
 )
