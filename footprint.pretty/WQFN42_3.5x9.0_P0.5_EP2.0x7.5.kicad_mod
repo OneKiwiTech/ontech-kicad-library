@@ -588,4 +588,15 @@
 		(thermal_bridge_angle 45)
 		(uuid "2441d2fe-4f33-444d-849d-3433046bff96")
 	)
+	(model "${ONEKIWI_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/WQFN42_3.5x9.0_P0.5.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 0)
+		)
+	)
 )
