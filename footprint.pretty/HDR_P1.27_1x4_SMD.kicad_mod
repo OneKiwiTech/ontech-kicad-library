@@ -1,4 +1,4 @@
-(footprint "HDR_P1.27_1x5_SMD"
+(footprint "HDR_P1.27_1x4_SMD"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -6,7 +6,7 @@
 	(descr "Through hole straight pin header, 1x05, 1.27mm pitch, single row")
 	(tags "Through hole pin header THT 1x05 1.27mm single row")
 	(property "Reference" "REF**"
-		(at 0 -1.695 0)
+		(at 0 0 0)
 		(layer "F.SilkS")
 		(uuid "d6c4c721-78d2-4d5e-a59f-1a3dd7f1b95c")
 		(effects
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "HDR_P1.27_1x5_SMD"
+	(property "Value" "HDR_P1.27_1x4_SMD"
 		(at 0 6.775 0)
 		(layer "User.1")
 		(uuid "82577a37-8b08-4f2d-9de7-9a01ae51265e")
@@ -31,7 +31,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "82a82b74-c0fe-4e4b-98f7-a8ffb2b5387e")
+		(uuid "807f0789-1c0e-4daf-b30a-831735dc2c2f")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -43,7 +43,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "c4df0de5-9419-4063-a8ba-d33510d0c99b")
+		(uuid "c1b4a26e-a980-4188-8405-f7c788c05f7e")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -55,7 +55,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "3725962d-5baa-4689-9205-1328c2780fb2")
+		(uuid "f64ae304-d200-4679-96c1-7ca968ac94e9")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -65,8 +65,19 @@
 	)
 	(attr smd)
 	(fp_rect
-		(start -1.524 -3.556)
-		(end 1.524 3.556)
+		(start -0.7 -2.6)
+		(end 0.7 2.6)
+		(stroke
+			(width 0.1778)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "d5bbd729-8691-4010-8335-940a898092a4")
+	)
+	(fp_rect
+		(start -0.8 -2.7)
+		(end 0.8 2.7)
 		(stroke
 			(width 0.0254)
 			(type solid)
@@ -75,55 +86,16 @@
 		(layer "F.CrtYd")
 		(uuid "8e767606-ab13-4e2c-8a18-60771215a929")
 	)
-	(fp_line
-		(start -1.27 -2.794)
-		(end -1.27 3.302)
+	(fp_rect
+		(start -0.635 -2.54)
+		(end 0.635 2.54)
 		(stroke
-			(width 0.1)
-			(type solid)
+			(width 0.0254)
+			(type default)
 		)
+		(fill none)
 		(layer "F.Fab")
-		(uuid "7cbf284b-4ec1-46b7-9547-d7079e62ad00")
-	)
-	(fp_line
-		(start -1.27 3.302)
-		(end 1.27 3.302)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-		(uuid "e5f02191-2c7e-4ba9-8ca0-dcf844986c9d")
-	)
-	(fp_line
-		(start -0.762 -3.302)
-		(end -1.27 -2.794)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-		(uuid "9aab2fb5-857d-49cf-a4bf-6be1e4319ac9")
-	)
-	(fp_line
-		(start 1.27 -3.302)
-		(end -0.762 -3.302)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-		(uuid "37b9b7b2-a56a-4942-9409-ca6be087de7e")
-	)
-	(fp_line
-		(start 1.27 3.302)
-		(end 1.27 -3.302)
-		(stroke
-			(width 0.1)
-			(type solid)
-		)
-		(layer "F.Fab")
-		(uuid "167e75bf-d38d-4d9c-b7e7-882a87169b00")
+		(uuid "86a21aec-dc92-4743-a554-5724c79e6d9d")
 	)
 	(fp_text user "${REFERENCE}"
 		(at 0 2.54 90)
@@ -136,34 +108,32 @@
 			)
 		)
 	)
-	(pad "1" smd circle
-		(at 0 -2.54)
-		(size 0.9 0.9)
+	(pad "1" smd oval
+		(at 0 -1.905)
+		(size 1 1)
 		(layers "F.Cu" "F.Paste" "F.Mask")
-		(uuid "a0e12dca-f265-4e17-8945-075412b677ee")
-	)
-	(pad "2" smd circle
-		(at 0 -1.27)
-		(size 0.9 0.9)
-		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_paste_margin 0.0762)
 		(uuid "77316a77-9a47-4c23-84e7-fd4fa02b86ef")
 	)
-	(pad "3" smd circle
-		(at 0 0)
-		(size 0.9 0.9)
+	(pad "2" smd oval
+		(at 0 -0.635)
+		(size 1 1)
 		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_paste_margin 0.0762)
 		(uuid "5dd0d445-5ef8-4597-836e-7271b63438f6")
 	)
-	(pad "4" smd circle
-		(at 0 1.27)
-		(size 0.9 0.9)
+	(pad "3" smd oval
+		(at 0 0.635)
+		(size 1 1)
 		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_paste_margin 0.0762)
 		(uuid "66485a1b-ea3b-441a-a21a-0efe12f639b6")
 	)
-	(pad "5" smd circle
-		(at 0 2.54)
-		(size 0.9 0.9)
+	(pad "4" smd oval
+		(at 0 1.905)
+		(size 1 1)
 		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_paste_margin 0.0762)
 		(uuid "b386d70c-b02c-4120-84c4-2941365e2fa9")
 	)
 )

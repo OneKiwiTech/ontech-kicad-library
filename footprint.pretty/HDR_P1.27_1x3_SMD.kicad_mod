@@ -1,4 +1,4 @@
-(footprint "HDR_P1.27_1x5_SMD"
+(footprint "HDR_P1.27_1x3_SMD"
 	(version 20240108)
 	(generator "pcbnew")
 	(generator_version "8.0")
@@ -16,7 +16,7 @@
 			)
 		)
 	)
-	(property "Value" "HDR_P1.27_1x5_SMD"
+	(property "Value" "HDR_P1.27_1x3_SMD"
 		(at 0 6.775 0)
 		(layer "User.1")
 		(uuid "82577a37-8b08-4f2d-9de7-9a01ae51265e")
@@ -31,7 +31,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "82a82b74-c0fe-4e4b-98f7-a8ffb2b5387e")
+		(uuid "53279010-c39a-43c6-815b-d5256159c387")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -43,7 +43,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "c4df0de5-9419-4063-a8ba-d33510d0c99b")
+		(uuid "f12bbba3-4e8d-4aa8-9077-f633b1111861")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -55,7 +55,7 @@
 		(at 0 0 0)
 		(layer "F.Fab")
 		(hide yes)
-		(uuid "3725962d-5baa-4689-9205-1328c2780fb2")
+		(uuid "0ce4a77e-922e-44dc-a3df-540e875a1c59")
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -65,8 +65,19 @@
 	)
 	(attr smd)
 	(fp_rect
-		(start -1.524 -3.556)
-		(end 1.524 3.556)
+		(start -0.7 -2)
+		(end 0.7 2)
+		(stroke
+			(width 0.1778)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "b02d043d-5eb5-489d-8b8a-83dd8f0de568")
+	)
+	(fp_rect
+		(start -0.8 -2.1)
+		(end 0.8 2.1)
 		(stroke
 			(width 0.0254)
 			(type solid)
@@ -76,8 +87,8 @@
 		(uuid "8e767606-ab13-4e2c-8a18-60771215a929")
 	)
 	(fp_line
-		(start -1.27 -2.794)
-		(end -1.27 3.302)
+		(start -0.7 -2)
+		(end -0.7 2)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -86,8 +97,8 @@
 		(uuid "7cbf284b-4ec1-46b7-9547-d7079e62ad00")
 	)
 	(fp_line
-		(start -1.27 3.302)
-		(end 1.27 3.302)
+		(start -0.7 2)
+		(end 0.7 2)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -96,8 +107,8 @@
 		(uuid "e5f02191-2c7e-4ba9-8ca0-dcf844986c9d")
 	)
 	(fp_line
-		(start -0.762 -3.302)
-		(end -1.27 -2.794)
+		(start -0.4 -2)
+		(end -0.7 -1.7)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -106,8 +117,8 @@
 		(uuid "9aab2fb5-857d-49cf-a4bf-6be1e4319ac9")
 	)
 	(fp_line
-		(start 1.27 -3.302)
-		(end -0.762 -3.302)
+		(start 0.7 -2)
+		(end -0.7 -2)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -116,8 +127,8 @@
 		(uuid "37b9b7b2-a56a-4942-9409-ca6be087de7e")
 	)
 	(fp_line
-		(start 1.27 3.302)
-		(end 1.27 -3.302)
+		(start 0.7 2)
+		(end 0.7 -2)
 		(stroke
 			(width 0.1)
 			(type solid)
@@ -136,34 +147,25 @@
 			)
 		)
 	)
-	(pad "1" smd circle
-		(at 0 -2.54)
-		(size 0.9 0.9)
-		(layers "F.Cu" "F.Paste" "F.Mask")
-		(uuid "a0e12dca-f265-4e17-8945-075412b677ee")
-	)
-	(pad "2" smd circle
+	(pad "1" smd oval
 		(at 0 -1.27)
-		(size 0.9 0.9)
+		(size 1 1)
 		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_paste_margin 0.0762)
 		(uuid "77316a77-9a47-4c23-84e7-fd4fa02b86ef")
 	)
-	(pad "3" smd circle
+	(pad "2" smd oval
 		(at 0 0)
-		(size 0.9 0.9)
+		(size 1 1)
 		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_paste_margin 0.0762)
 		(uuid "5dd0d445-5ef8-4597-836e-7271b63438f6")
 	)
-	(pad "4" smd circle
+	(pad "3" smd oval
 		(at 0 1.27)
-		(size 0.9 0.9)
+		(size 1 1)
 		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_paste_margin 0.0762)
 		(uuid "66485a1b-ea3b-441a-a21a-0efe12f639b6")
-	)
-	(pad "5" smd circle
-		(at 0 2.54)
-		(size 0.9 0.9)
-		(layers "F.Cu" "F.Paste" "F.Mask")
-		(uuid "b386d70c-b02c-4120-84c4-2941365e2fa9")
 	)
 )
